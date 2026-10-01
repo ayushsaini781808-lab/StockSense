@@ -2,3 +2,7 @@ fastapi
 uvicorn[standard]
 scikit-learn
 numpy
+fastapi
+uvicorn[standard]
+scikit-learn
+numpy
