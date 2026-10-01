@@ -5,10 +5,8 @@ const express = require("express");
 const path = require("path");
 const fs = require("fs");
 
+const app = express();
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-
-app.use(express.json());
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
@@ -365,14 +363,18 @@ app.get("/api/predict/:symbol", async (req, res) => {
         }
 
         // Call Python FastAPI ML Service
-        const mlServiceUrl = process.env.ML_SERVICE_URL || "http://127.0.0.1:8000";
+        let mlServiceUrl = process.env.ML_SERVICE_URL || "http://127.0.0.1:8000";
+        if (!/^https?:\/\//.test(mlServiceUrl)) mlServiceUrl = `http://${mlServiceUrl}`;
+        mlServiceUrl = mlServiceUrl.replace(/\/$/, "");
+
         const mlResponse = await fetch(`${mlServiceUrl}/predict`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ symbol, closes })
+            body: JSON.stringify({ symbol, closes }),
+            signal: AbortSignal.timeout(60000) // Render free tier wakes slowly
         });
 
-        const prediction = await mlResponse.json();
+        const prediction = await mlResponse.json().catch(() => ({}));
 
         if (!mlResponse.ok) {
             return res.status(mlResponse.status).json(prediction);
@@ -390,7 +392,7 @@ app.get("/api/predict/:symbol", async (req, res) => {
     } catch (error) {
         console.error("Prediction error:", error);
         res.status(502).json({
-            error: "Prediction service failed. Ensure the Python ML service is running on port 8000.",
+            error: "Prediction service failed. Check that the ML service is running and ML_SERVICE_URL is correct.",
             details: error.message
         });
     }
@@ -629,10 +631,10 @@ app.get("/api/stock/:symbol", async (req, res) => {
 app.get("/api/ipos", (req, res) => {
     res.json(REAL_IPOS);
 });
-
+    
 // ─── START ──────────────────────────────────────────────────────────────────
 app.listen(PORT, () => {
-    console.log(`\n🚀 StockSense 2.0 active at http://localhost:${PORT}`);
+    console.log(`\n🚀 StockSense 2.0 active on port ${PORT}`);
     console.log(`📊 500+ Indian Stocks Directory: GET /api/stocks`);
     console.log(`🤖 ML Linear Regression: GET /api/predict/:symbol`);
     console.log(`🧠 AI Analyst Chat:       POST /api/analyst\n`);
