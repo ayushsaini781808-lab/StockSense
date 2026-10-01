@@ -356,6 +356,31 @@ app.get("/api/predict/:symbol", async (req, res) => {
             }
         }
 
+        // Alpha Vantage fallback (set ALPHAVANTAGE_API_KEY in Render Environment)
+        if (closes.length < 35 && process.env.ALPHAVANTAGE_API_KEY) {
+            try {
+                const avUrl = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY" +
+                    `&symbol=${encodeURIComponent(symbol)}.BSE&outputsize=compact` +
+                    `&apikey=${process.env.ALPHAVANTAGE_API_KEY}`;
+                const avRes = await fetch(avUrl, { signal: AbortSignal.timeout(20000) });
+                const avData = await avRes.json();
+                const series = avData["Time Series (Daily)"];
+                if (series) {
+                    const avCloses = Object.keys(series).sort()
+                        .map(d => Number(series[d]["4. close"]))
+                        .filter(c => Number.isFinite(c) && c > 0);
+                    if (avCloses.length >= 35) {
+                        closes = avCloses;
+                        dataSource = "Alpha Vantage daily candles (BSE)";
+                    }
+                } else {
+                    console.warn("Alpha Vantage returned no data:", JSON.stringify(avData).slice(0, 200));
+                }
+            } catch (e) {
+                console.warn("Alpha Vantage fallback failed:", e.message);
+            }
+        }
+
         if (closes.length < 35) {
             return res.status(400).json({
                 error: `At least 35 historical daily closes are required for "${symbol}". Retrieved ${closes.length}. Verify the symbol is active on NSE.`
@@ -631,7 +656,7 @@ app.get("/api/stock/:symbol", async (req, res) => {
 app.get("/api/ipos", (req, res) => {
     res.json(REAL_IPOS);
 });
-    
+
 // ─── START ──────────────────────────────────────────────────────────────────
 app.listen(PORT, () => {
     console.log(`\n🚀 StockSense 2.0 active on port ${PORT}`);
