@@ -1,0 +1,4006 @@
+[
+  {
+    "sym": "RELIANCE",
+    "name": "Reliance Industries Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "RELIANCE.NS"
+  },
+  {
+    "sym": "TCS",
+    "name": "Tata Consultancy Services Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "TCS.NS"
+  },
+  {
+    "sym": "HDFCBANK",
+    "name": "HDFC Bank Ltd",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "HDFCBANK.NS"
+  },
+  {
+    "sym": "INFY",
+    "name": "Infosys Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "INFY.NS"
+  },
+  {
+    "sym": "ICICIBANK",
+    "name": "ICICI Bank Ltd",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "ICICIBANK.NS"
+  },
+  {
+    "sym": "BHARTIARTL",
+    "name": "Bharti Airtel Ltd",
+    "sector": "Telecom",
+    "cap": "Large Cap",
+    "yahoo": "BHARTIARTL.NS"
+  },
+  {
+    "sym": "SBIN",
+    "name": "State Bank of India",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "SBIN.NS"
+  },
+  {
+    "sym": "ITC",
+    "name": "ITC Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "ITC.NS"
+  },
+  {
+    "sym": "HINDUNILVR",
+    "name": "Hindustan Unilever Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "HINDUNILVR.NS"
+  },
+  {
+    "sym": "LT",
+    "name": "Larsen & Toubro Ltd",
+    "sector": "Infrastructure",
+    "cap": "Large Cap",
+    "yahoo": "LT.NS"
+  },
+  {
+    "sym": "BAJFINANCE",
+    "name": "Bajaj Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "BAJFINANCE.NS"
+  },
+  {
+    "sym": "HCLTECH",
+    "name": "HCL Technologies Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "HCLTECH.NS"
+  },
+  {
+    "sym": "MARUTI",
+    "name": "Maruti Suzuki India Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "MARUTI.NS"
+  },
+  {
+    "sym": "SUNPHARMA",
+    "name": "Sun Pharmaceutical Industries Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "SUNPHARMA.NS"
+  },
+  {
+    "sym": "TATAMOTORS",
+    "name": "Tata Motors Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "TMCV.NS"
+  },
+  {
+    "sym": "ONGC",
+    "name": "Oil & Natural Gas Corporation Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "ONGC.NS"
+  },
+  {
+    "sym": "NTPC",
+    "name": "NTPC Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "NTPC.NS"
+  },
+  {
+    "sym": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Ltd",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "KOTAKBANK.NS"
+  },
+  {
+    "sym": "TITAN",
+    "name": "Titan Company Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Large Cap",
+    "yahoo": "TITAN.NS"
+  },
+  {
+    "sym": "AXISBANK",
+    "name": "Axis Bank Ltd",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "AXISBANK.NS"
+  },
+  {
+    "sym": "ADANIENT",
+    "name": "Adani Enterprises Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "ADANIENT.NS"
+  },
+  {
+    "sym": "ADANIPORTS",
+    "name": "Adani Ports and SEZ Ltd",
+    "sector": "Infrastructure",
+    "cap": "Large Cap",
+    "yahoo": "ADANIPORTS.NS"
+  },
+  {
+    "sym": "ULTRACEMCO",
+    "name": "UltraTech Cement Ltd",
+    "sector": "Materials",
+    "cap": "Large Cap",
+    "yahoo": "ULTRACEMCO.NS"
+  },
+  {
+    "sym": "COALINDIA",
+    "name": "Coal India Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "COALINDIA.NS"
+  },
+  {
+    "sym": "BAJAJFINSV",
+    "name": "Bajaj Finserv Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "BAJAJFINSV.NS"
+  },
+  {
+    "sym": "ASIANPAINT",
+    "name": "Asian Paints Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Large Cap",
+    "yahoo": "ASIANPAINT.NS"
+  },
+  {
+    "sym": "POWERGRID",
+    "name": "Power Grid Corporation of India Ltd",
+    "sector": "Utilities",
+    "cap": "Large Cap",
+    "yahoo": "POWERGRID.NS"
+  },
+  {
+    "sym": "TATASTEEL",
+    "name": "Tata Steel Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "TATASTEEL.NS"
+  },
+  {
+    "sym": "M&M",
+    "name": "Mahindra & Mahindra Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "M&M.NS"
+  },
+  {
+    "sym": "NESTLEIND",
+    "name": "Nestle India Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "NESTLEIND.NS"
+  },
+  {
+    "sym": "JSWSTEEL",
+    "name": "JSW Steel Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "JSWSTEEL.NS"
+  },
+  {
+    "sym": "GRASIM",
+    "name": "Grasim Industries Ltd",
+    "sector": "Materials",
+    "cap": "Large Cap",
+    "yahoo": "GRASIM.NS"
+  },
+  {
+    "sym": "TECHM",
+    "name": "Tech Mahindra Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "TECHM.NS"
+  },
+  {
+    "sym": "INDUSINDBK",
+    "name": "IndusInd Bank Ltd",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "INDUSINDBK.NS"
+  },
+  {
+    "sym": "CIPLA",
+    "name": "Cipla Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "CIPLA.NS"
+  },
+  {
+    "sym": "EICHERMOT",
+    "name": "Eicher Motors Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "EICHERMOT.NS"
+  },
+  {
+    "sym": "HINDALCO",
+    "name": "Hindalco Industries Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "HINDALCO.NS"
+  },
+  {
+    "sym": "BPCL",
+    "name": "Bharat Petroleum Corporation Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "BPCL.NS"
+  },
+  {
+    "sym": "DRREDDY",
+    "name": "Dr. Reddy's Laboratories Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "DRREDDY.NS"
+  },
+  {
+    "sym": "WIPRO",
+    "name": "Wipro Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "WIPRO.NS"
+  },
+  {
+    "sym": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "APOLLOHOSP.NS"
+  },
+  {
+    "sym": "BRITANNIA",
+    "name": "Britannia Industries Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "BRITANNIA.NS"
+  },
+  {
+    "sym": "TATACONSUM",
+    "name": "Tata Consumer Products Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "TATACONSUM.NS"
+  },
+  {
+    "sym": "SBILIFE",
+    "name": "SBI Life Insurance Company Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "SBILIFE.NS"
+  },
+  {
+    "sym": "DIVISLAB",
+    "name": "Divi's Laboratories Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "DIVISLAB.NS"
+  },
+  {
+    "sym": "HEROMOTOCO",
+    "name": "Hero MotoCorp Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "HEROMOTOCO.NS"
+  },
+  {
+    "sym": "BAJAJ-AUTO",
+    "name": "Bajaj Auto Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "BAJAJ-AUTO.NS"
+  },
+  {
+    "sym": "LTIM",
+    "name": "LTIMindtree Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "LTIM.NS"
+  },
+  {
+    "sym": "SHREECEM",
+    "name": "Shree Cement Ltd",
+    "sector": "Materials",
+    "cap": "Large Cap",
+    "yahoo": "SHREECEM.NS"
+  },
+  {
+    "sym": "ZOMATO",
+    "name": "Zomato Ltd",
+    "sector": "Consumer Services",
+    "cap": "Large Cap",
+    "yahoo": "ZOMATO.NS"
+  },
+  {
+    "sym": "JIOFIN",
+    "name": "Jio Financial Services Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "JIOFIN.NS"
+  },
+  {
+    "sym": "HAL",
+    "name": "Hindustan Aeronautics Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Large Cap",
+    "yahoo": "HAL.NS"
+  },
+  {
+    "sym": "BEL",
+    "name": "Bharat Electronics Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Large Cap",
+    "yahoo": "BEL.NS"
+  },
+  {
+    "sym": "VBL",
+    "name": "Varun Beverages Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "VBL.NS"
+  },
+  {
+    "sym": "TRENT",
+    "name": "Trent Ltd",
+    "sector": "Retail",
+    "cap": "Large Cap",
+    "yahoo": "TRENT.NS"
+  },
+  {
+    "sym": "DLF",
+    "name": "DLF Ltd",
+    "sector": "Realty",
+    "cap": "Large Cap",
+    "yahoo": "DLF.NS"
+  },
+  {
+    "sym": "CHOLAFIN",
+    "name": "Cholamandalam Investment and Finance Company Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "CHOLAFIN.NS"
+  },
+  {
+    "sym": "SIEMENS",
+    "name": "Siemens Ltd",
+    "sector": "Capital Goods",
+    "cap": "Large Cap",
+    "yahoo": "SIEMENS.NS"
+  },
+  {
+    "sym": "ABB",
+    "name": "ABB India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Large Cap",
+    "yahoo": "ABB.NS"
+  },
+  {
+    "sym": "HAVELLS",
+    "name": "Havells India Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Large Cap",
+    "yahoo": "HAVELLS.NS"
+  },
+  {
+    "sym": "POLYCAB",
+    "name": "Polycab India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Large Cap",
+    "yahoo": "POLYCAB.NS"
+  },
+  {
+    "sym": "PIDILITIND",
+    "name": "Pidilite Industries Ltd",
+    "sector": "Chemicals",
+    "cap": "Large Cap",
+    "yahoo": "PIDILITIND.NS"
+  },
+  {
+    "sym": "BHEL",
+    "name": "Bharat Heavy Electricals Ltd",
+    "sector": "Capital Goods",
+    "cap": "Large Cap",
+    "yahoo": "BHEL.NS"
+  },
+  {
+    "sym": "REC",
+    "name": "REC Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "REC.NS"
+  },
+  {
+    "sym": "PFC",
+    "name": "Power Finance Corporation Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "PFC.NS"
+  },
+  {
+    "sym": "IRFC",
+    "name": "Indian Railway Finance Corporation Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "IRFC.NS"
+  },
+  {
+    "sym": "RVNL",
+    "name": "Rail Vikas Nigam Ltd",
+    "sector": "Infrastructure",
+    "cap": "Large Cap",
+    "yahoo": "RVNL.NS"
+  },
+  {
+    "sym": "MAZDOCK",
+    "name": "Mazagon Dock Shipbuilders Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Large Cap",
+    "yahoo": "MAZDOCK.NS"
+  },
+  {
+    "sym": "COCHINSHIP",
+    "name": "Cochin Shipyard Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Large Cap",
+    "yahoo": "COCHINSHIP.NS"
+  },
+  {
+    "sym": "MOTHERSON",
+    "name": "Samvardhana Motherson International Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "MOTHERSON.NS"
+  },
+  {
+    "sym": "TVSMOTOR",
+    "name": "TVS Motor Company Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "TVSMOTOR.NS"
+  },
+  {
+    "sym": "GODREJCP",
+    "name": "Godrej Consumer Products Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "GODREJCP.NS"
+  },
+  {
+    "sym": "DABUR",
+    "name": "Dabur India Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "DABUR.NS"
+  },
+  {
+    "sym": "MARICO",
+    "name": "Marico Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "MARICO.NS"
+  },
+  {
+    "sym": "BERGEPAINT",
+    "name": "Berger Paints India Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Large Cap",
+    "yahoo": "BERGEPAINT.NS"
+  },
+  {
+    "sym": "AUROPHARMA",
+    "name": "Aurobindo Pharma Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "AUROPHARMA.NS"
+  },
+  {
+    "sym": "LUPIN",
+    "name": "Lupin Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "LUPIN.NS"
+  },
+  {
+    "sym": "TORNTPHARM",
+    "name": "Torrent Pharmaceuticals Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "TORNTPHARM.NS"
+  },
+  {
+    "sym": "MANKIND",
+    "name": "Mankind Pharma Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "MANKIND.NS"
+  },
+  {
+    "sym": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "ZYDUSLIFE.NS"
+  },
+  {
+    "sym": "ALKEM",
+    "name": "Alkem Laboratories Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "ALKEM.NS"
+  },
+  {
+    "sym": "MAXHEALTH",
+    "name": "Max Healthcare Institute Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "MAXHEALTH.NS"
+  },
+  {
+    "sym": "FORTIS",
+    "name": "Fortis Healthcare Ltd",
+    "sector": "Healthcare",
+    "cap": "Large Cap",
+    "yahoo": "FORTIS.NS"
+  },
+  {
+    "sym": "CANBK",
+    "name": "Canara Bank",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "CANBK.NS"
+  },
+  {
+    "sym": "PNB",
+    "name": "Punjab National Bank",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "PNB.NS"
+  },
+  {
+    "sym": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "BANKBARODA.NS"
+  },
+  {
+    "sym": "UNIONBANK",
+    "name": "Union Bank of India",
+    "sector": "Banking",
+    "cap": "Large Cap",
+    "yahoo": "UNIONBANK.NS"
+  },
+  {
+    "sym": "IDFCFIRSTB",
+    "name": "IDFC First Bank Ltd",
+    "sector": "Banking",
+    "cap": "Mid Cap",
+    "yahoo": "IDFCFIRSTB.NS"
+  },
+  {
+    "sym": "FEDERALBNK",
+    "name": "The Federal Bank Ltd",
+    "sector": "Banking",
+    "cap": "Mid Cap",
+    "yahoo": "FEDERALBNK.NS"
+  },
+  {
+    "sym": "BANDHANBNK",
+    "name": "Bandhan Bank Ltd",
+    "sector": "Banking",
+    "cap": "Mid Cap",
+    "yahoo": "BANDHANBNK.NS"
+  },
+  {
+    "sym": "INDHOTEL",
+    "name": "The Indian Hotels Company Ltd",
+    "sector": "Consumer Services",
+    "cap": "Large Cap",
+    "yahoo": "INDHOTEL.NS"
+  },
+  {
+    "sym": "IRCTC",
+    "name": "Indian Railway Catering and Tourism Corp Ltd",
+    "sector": "Consumer Services",
+    "cap": "Large Cap",
+    "yahoo": "IRCTC.NS"
+  },
+  {
+    "sym": "NYKAA",
+    "name": "FSN E-Commerce Ventures Ltd (Nykaa)",
+    "sector": "Retail",
+    "cap": "Large Cap",
+    "yahoo": "NYKAA.NS"
+  },
+  {
+    "sym": "PAYTM",
+    "name": "One97 Communications Ltd (Paytm)",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "PAYTM.NS"
+  },
+  {
+    "sym": "POLICYBZR",
+    "name": "PB Fintech Ltd (Policybazaar)",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "POLICYBZR.NS"
+  },
+  {
+    "sym": "DELHIVERY",
+    "name": "Delhivery Ltd",
+    "sector": "Logistics",
+    "cap": "Mid Cap",
+    "yahoo": "DELHIVERY.NS"
+  },
+  {
+    "sym": "IDEA",
+    "name": "Vodafone Idea Ltd",
+    "sector": "Telecom",
+    "cap": "Mid Cap",
+    "yahoo": "IDEA.NS"
+  },
+  {
+    "sym": "SUZLON",
+    "name": "Suzlon Energy Ltd",
+    "sector": "Energy",
+    "cap": "Mid Cap",
+    "yahoo": "SUZLON.NS"
+  },
+  {
+    "sym": "TATACOMM",
+    "name": "Tata Communications Ltd",
+    "sector": "Telecom",
+    "cap": "Mid Cap",
+    "yahoo": "TATACOMM.NS"
+  },
+  {
+    "sym": "PERSISTENT",
+    "name": "Persistent Systems Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "PERSISTENT.NS"
+  },
+  {
+    "sym": "COFORGE",
+    "name": "Coforge Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "COFORGE.NS"
+  },
+  {
+    "sym": "MPHASIS",
+    "name": "Mphasis Ltd",
+    "sector": "IT Services",
+    "cap": "Mid Cap",
+    "yahoo": "MPHASIS.NS"
+  },
+  {
+    "sym": "KPITTECH",
+    "name": "KPIT Technologies Ltd",
+    "sector": "IT Services",
+    "cap": "Mid Cap",
+    "yahoo": "KPITTECH.NS"
+  },
+  {
+    "sym": "TATAELXSI",
+    "name": "Tata Elxsi Ltd",
+    "sector": "IT Services",
+    "cap": "Mid Cap",
+    "yahoo": "TATAELXSI.NS"
+  },
+  {
+    "sym": "LTTS",
+    "name": "L&T Technology Services Ltd",
+    "sector": "IT Services",
+    "cap": "Mid Cap",
+    "yahoo": "LTTS.NS"
+  },
+  {
+    "sym": "OFSS",
+    "name": "Oracle Financial Services Software Ltd",
+    "sector": "IT Services",
+    "cap": "Large Cap",
+    "yahoo": "OFSS.NS"
+  },
+  {
+    "sym": "CYIENT",
+    "name": "Cyient Ltd",
+    "sector": "IT Services",
+    "cap": "Mid Cap",
+    "yahoo": "CYIENT.NS"
+  },
+  {
+    "sym": "SONACOMS",
+    "name": "Sona BLW Precision Forgings Ltd",
+    "sector": "Automobile",
+    "cap": "Mid Cap",
+    "yahoo": "SONACOMS.NS"
+  },
+  {
+    "sym": "BHARATFORG",
+    "name": "Bharat Forge Ltd",
+    "sector": "Capital Goods",
+    "cap": "Large Cap",
+    "yahoo": "BHARATFORG.NS"
+  },
+  {
+    "sym": "BALKRISIND",
+    "name": "Balkrishna Industries Ltd",
+    "sector": "Automobile",
+    "cap": "Mid Cap",
+    "yahoo": "BALKRISIND.NS"
+  },
+  {
+    "sym": "MRF",
+    "name": "MRF Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "MRF.NS"
+  },
+  {
+    "sym": "CEATLTD",
+    "name": "CEAT Ltd",
+    "sector": "Automobile",
+    "cap": "Mid Cap",
+    "yahoo": "CEATLTD.NS"
+  },
+  {
+    "sym": "EXIDEIND",
+    "name": "Exide Industries Ltd",
+    "sector": "Automobile",
+    "cap": "Mid Cap",
+    "yahoo": "EXIDEIND.NS"
+  },
+  {
+    "sym": "AMBUJACEM",
+    "name": "Ambuja Cements Ltd",
+    "sector": "Materials",
+    "cap": "Large Cap",
+    "yahoo": "AMBUJACEM.NS"
+  },
+  {
+    "sym": "ACC",
+    "name": "ACC Ltd",
+    "sector": "Materials",
+    "cap": "Large Cap",
+    "yahoo": "ACC.NS"
+  },
+  {
+    "sym": "DALBHARAT",
+    "name": "Dalmia Bharat Ltd",
+    "sector": "Materials",
+    "cap": "Mid Cap",
+    "yahoo": "DALBHARAT.NS"
+  },
+  {
+    "sym": "JINDALSTEL",
+    "name": "Jindal Steel & Power Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "JINDALSTEL.NS"
+  },
+  {
+    "sym": "SAIL",
+    "name": "Steel Authority of India Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "SAIL.NS"
+  },
+  {
+    "sym": "NMDC",
+    "name": "NMDC Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "NMDC.NS"
+  },
+  {
+    "sym": "VEDL",
+    "name": "Vedanta Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Large Cap",
+    "yahoo": "VEDL.NS"
+  },
+  {
+    "sym": "NATIONALUM",
+    "name": "National Aluminium Company Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Mid Cap",
+    "yahoo": "NATIONALUM.NS"
+  },
+  {
+    "sym": "HINDPETRO",
+    "name": "Hindustan Petroleum Corporation Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "HINDPETRO.NS"
+  },
+  {
+    "sym": "IOC",
+    "name": "Indian Oil Corporation Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "IOC.NS"
+  },
+  {
+    "sym": "GAIL",
+    "name": "GAIL (India) Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "GAIL.NS"
+  },
+  {
+    "sym": "IGL",
+    "name": "Indraprastha Gas Ltd",
+    "sector": "Energy",
+    "cap": "Mid Cap",
+    "yahoo": "IGL.NS"
+  },
+  {
+    "sym": "MGL",
+    "name": "Mahanagar Gas Ltd",
+    "sector": "Energy",
+    "cap": "Mid Cap",
+    "yahoo": "MGL.NS"
+  },
+  {
+    "sym": "GUJGASLTD",
+    "name": "Gujarat Gas Ltd",
+    "sector": "Energy",
+    "cap": "Mid Cap",
+    "yahoo": "GUJGASLTD.NS"
+  },
+  {
+    "sym": "PETRONET",
+    "name": "Petronet LNG Ltd",
+    "sector": "Energy",
+    "cap": "Mid Cap",
+    "yahoo": "PETRONET.NS"
+  },
+  {
+    "sym": "OIL",
+    "name": "Oil India Ltd",
+    "sector": "Energy",
+    "cap": "Mid Cap",
+    "yahoo": "OIL.NS"
+  },
+  {
+    "sym": "NHPC",
+    "name": "NHPC Ltd",
+    "sector": "Utilities",
+    "cap": "Large Cap",
+    "yahoo": "NHPC.NS"
+  },
+  {
+    "sym": "SJVN",
+    "name": "SJVN Ltd",
+    "sector": "Utilities",
+    "cap": "Mid Cap",
+    "yahoo": "SJVN.NS"
+  },
+  {
+    "sym": "CESC",
+    "name": "CESC Ltd",
+    "sector": "Utilities",
+    "cap": "Mid Cap",
+    "yahoo": "CESC.NS"
+  },
+  {
+    "sym": "TATACHEM",
+    "name": "Tata Chemicals Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid Cap",
+    "yahoo": "TATACHEM.NS"
+  },
+  {
+    "sym": "DEEPAKNTR",
+    "name": "Deepak Nitrite Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid Cap",
+    "yahoo": "DEEPAKNTR.NS"
+  },
+  {
+    "sym": "TATAINVEST",
+    "name": "Tata Investment Corporation Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "TATAINVEST.NS"
+  },
+  {
+    "sym": "SRF",
+    "name": "SRF Ltd",
+    "sector": "Chemicals",
+    "cap": "Large Cap",
+    "yahoo": "SRF.NS"
+  },
+  {
+    "sym": "ASTRAL",
+    "name": "Astral Ltd",
+    "sector": "Materials",
+    "cap": "Large Cap",
+    "yahoo": "ASTRAL.NS"
+  },
+  {
+    "sym": "SUPREMEIND",
+    "name": "Supreme Industries Ltd",
+    "sector": "Materials",
+    "cap": "Mid Cap",
+    "yahoo": "SUPREMEIND.NS"
+  },
+  {
+    "sym": "VOLTAS",
+    "name": "Voltas Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Large Cap",
+    "yahoo": "VOLTAS.NS"
+  },
+  {
+    "sym": "BLUESTARCO",
+    "name": "Blue Star Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Mid Cap",
+    "yahoo": "BLUESTARCO.NS"
+  },
+  {
+    "sym": "CROMPTON",
+    "name": "Crompton Greaves Consumer Electricals Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Mid Cap",
+    "yahoo": "CROMPTON.NS"
+  },
+  {
+    "sym": "DIXON",
+    "name": "Dixon Technologies (India) Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Large Cap",
+    "yahoo": "DIXON.NS"
+  },
+  {
+    "sym": "AMBER",
+    "name": "Amber Enterprises India Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Mid Cap",
+    "yahoo": "AMBER.NS"
+  },
+  {
+    "sym": "KAYNES",
+    "name": "Kaynes Technology India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "KAYNES.NS"
+  },
+  {
+    "sym": "MAPMYINDIA",
+    "name": "CE Info Systems Ltd (MapmyIndia)",
+    "sector": "IT Services",
+    "cap": "Small Cap",
+    "yahoo": "MAPMYINDIA.NS"
+  },
+  {
+    "sym": "AFFLE",
+    "name": "Affle (India) Ltd",
+    "sector": "IT Services",
+    "cap": "Mid Cap",
+    "yahoo": "AFFLE.NS"
+  },
+  {
+    "sym": "CDSL",
+    "name": "Central Depository Services (India) Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "CDSL.NS"
+  },
+  {
+    "sym": "BSE",
+    "name": "BSE Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "BSE.NS"
+  },
+  {
+    "sym": "CAMS",
+    "name": "Computer Age Management Services Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "CAMS.NS"
+  },
+  {
+    "sym": "ANGELONE",
+    "name": "Angel One Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "ANGELONE.NS"
+  },
+  {
+    "sym": "MCX",
+    "name": "Multi Commodity Exchange of India Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "MCX.NS"
+  },
+  {
+    "sym": "MOTILALOFS",
+    "name": "Motilal Oswal Financial Services Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "MOTILALOFS.NS"
+  },
+  {
+    "sym": "IEX",
+    "name": "Indian Energy Exchange Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "IEX.NS"
+  },
+  {
+    "sym": "MUTHOOTFIN",
+    "name": "Muthoot Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "MUTHOOTFIN.NS"
+  },
+  {
+    "sym": "MANAPPURAM",
+    "name": "Manappuram Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Small Cap",
+    "yahoo": "MANAPPURAM.NS"
+  },
+  {
+    "sym": "POONAWALLA",
+    "name": "Poonawalla Fincorp Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "POONAWALLA.NS"
+  },
+  {
+    "sym": "SHRIRAMFIN",
+    "name": "Shriram Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "SHRIRAMFIN.NS"
+  },
+  {
+    "sym": "SUNDARMFIN",
+    "name": "Sundaram Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "SUNDARMFIN.NS"
+  },
+  {
+    "sym": "LICHSGFIN",
+    "name": "LIC Housing Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "LICHSGFIN.NS"
+  },
+  {
+    "sym": "PNBHOUSING",
+    "name": "PNB Housing Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "PNBHOUSING.NS"
+  },
+  {
+    "sym": "AAVAS",
+    "name": "Aavas Financiers Ltd",
+    "sector": "Financial Services",
+    "cap": "Small Cap",
+    "yahoo": "AAVAS.NS"
+  },
+  {
+    "sym": "PRESTIGE",
+    "name": "Prestige Estates Projects Ltd",
+    "sector": "Realty",
+    "cap": "Large Cap",
+    "yahoo": "PRESTIGE.NS"
+  },
+  {
+    "sym": "BRIGADE",
+    "name": "Brigade Enterprises Ltd",
+    "sector": "Realty",
+    "cap": "Mid Cap",
+    "yahoo": "BRIGADE.NS"
+  },
+  {
+    "sym": "SOBHA",
+    "name": "Sobha Ltd",
+    "sector": "Realty",
+    "cap": "Mid Cap",
+    "yahoo": "SOBHA.NS"
+  },
+  {
+    "sym": "GODREJPROP",
+    "name": "Godrej Properties Ltd",
+    "sector": "Realty",
+    "cap": "Large Cap",
+    "yahoo": "GODREJPROP.NS"
+  },
+  {
+    "sym": "OBEROIRLTY",
+    "name": "Oberoi Realty Ltd",
+    "sector": "Realty",
+    "cap": "Large Cap",
+    "yahoo": "OBEROIRLTY.NS"
+  },
+  {
+    "sym": "PHOENIXLTD",
+    "name": "The Phoenix Mills Ltd",
+    "sector": "Realty",
+    "cap": "Large Cap",
+    "yahoo": "PHOENIXLTD.NS"
+  },
+  {
+    "sym": "SUNTECK",
+    "name": "Sunteck Realty Ltd",
+    "sector": "Realty",
+    "cap": "Small Cap",
+    "yahoo": "SUNTECK.NS"
+  },
+  {
+    "sym": "JUBLFOOD",
+    "name": "Jubilant FoodWorks Ltd",
+    "sector": "Consumer Services",
+    "cap": "Mid Cap",
+    "yahoo": "JUBLFOOD.NS"
+  },
+  {
+    "sym": "DEVYANI",
+    "name": "Devyani International Ltd",
+    "sector": "Consumer Services",
+    "cap": "Mid Cap",
+    "yahoo": "DEVYANI.NS"
+  },
+  {
+    "sym": "WESTLIFE",
+    "name": "Westlife Foodworld Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "WESTLIFE.NS"
+  },
+  {
+    "sym": "SAPPHIRE",
+    "name": "Sapphire Foods India Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "SAPPHIRE.NS"
+  },
+  {
+    "sym": "BIKAJI",
+    "name": "Bikaji Foods International Ltd",
+    "sector": "FMCG",
+    "cap": "Mid Cap",
+    "yahoo": "BIKAJI.NS"
+  },
+  {
+    "sym": "PATANJALI",
+    "name": "Patanjali Foods Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "PATANJALI.NS"
+  },
+  {
+    "sym": "AWL",
+    "name": "Adani Wilmar Ltd",
+    "sector": "FMCG",
+    "cap": "Mid Cap",
+    "yahoo": "AWL.NS"
+  },
+  {
+    "sym": "RADICO",
+    "name": "Radico Khaitan Ltd",
+    "sector": "FMCG",
+    "cap": "Mid Cap",
+    "yahoo": "RADICO.NS"
+  },
+  {
+    "sym": "UBL",
+    "name": "United Breweries Ltd",
+    "sector": "FMCG",
+    "cap": "Mid Cap",
+    "yahoo": "UBL.NS"
+  },
+  {
+    "sym": "MCDOWELL-N",
+    "name": "United Spirits Ltd",
+    "sector": "FMCG",
+    "cap": "Large Cap",
+    "yahoo": "MCDOWELL-N.NS"
+  },
+  {
+    "sym": "TIINDIA",
+    "name": "Tube Investments of India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Large Cap",
+    "yahoo": "TIINDIA.NS"
+  },
+  {
+    "sym": "ESCORTS",
+    "name": "Escorts Kubota Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "ESCORTS.NS"
+  },
+  {
+    "sym": "CUMMINSIND",
+    "name": "Cummins India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Large Cap",
+    "yahoo": "CUMMINSIND.NS"
+  },
+  {
+    "sym": "THERMAX",
+    "name": "Thermax Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "THERMAX.NS"
+  },
+  {
+    "sym": "KEC",
+    "name": "KEC International Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "KEC.NS"
+  },
+  {
+    "sym": "KALPATPOWR",
+    "name": "Kalpataru Projects International Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "KALPATPOWR.NS"
+  },
+  {
+    "sym": "NCC",
+    "name": "NCC Ltd",
+    "sector": "Infrastructure",
+    "cap": "Small Cap",
+    "yahoo": "NCC.NS"
+  },
+  {
+    "sym": "GMRINFRA",
+    "name": "GMR Airports Infrastructure Ltd",
+    "sector": "Infrastructure",
+    "cap": "Large Cap",
+    "yahoo": "GMRINFRA.NS"
+  },
+  {
+    "sym": "IRB",
+    "name": "IRB Infrastructure Developers Ltd",
+    "sector": "Infrastructure",
+    "cap": "Mid Cap",
+    "yahoo": "IRB.NS"
+  },
+  {
+    "sym": "GICRE",
+    "name": "General Insurance Corporation of India",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "GICRE.NS"
+  },
+  {
+    "sym": "NIACL",
+    "name": "The New India Assurance Company Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "NIACL.NS"
+  },
+  {
+    "sym": "STARHEALTH",
+    "name": "Star Health and Allied Insurance Company Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "STARHEALTH.NS"
+  },
+  {
+    "sym": "MEDANTA",
+    "name": "Global Health Ltd (Medanta)",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "MEDANTA.NS"
+  },
+  {
+    "sym": "NH",
+    "name": "Narayana Hrudayalaya Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "NH.NS"
+  },
+  {
+    "sym": "LALPATHLAB",
+    "name": "Dr. Lal PathLabs Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "LALPATHLAB.NS"
+  },
+  {
+    "sym": "METROPOLIS",
+    "name": "Metropolis Healthcare Ltd",
+    "sector": "Healthcare",
+    "cap": "Small Cap",
+    "yahoo": "METROPOLIS.NS"
+  },
+  {
+    "sym": "KIMS",
+    "name": "Krishna Institute of Medical Sciences Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "KIMS.NS"
+  },
+  {
+    "sym": "VIJAYA",
+    "name": "Vijaya Diagnostic Centre Ltd",
+    "sector": "Healthcare",
+    "cap": "Small Cap",
+    "yahoo": "VIJAYA.NS"
+  },
+  {
+    "sym": "SYNGENE",
+    "name": "Syngene International Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "SYNGENE.NS"
+  },
+  {
+    "sym": "BIOCON",
+    "name": "Biocon Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "BIOCON.NS"
+  },
+  {
+    "sym": "NATCOPHARM",
+    "name": "Natco Pharma Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "NATCOPHARM.NS"
+  },
+  {
+    "sym": "AJANTPHARM",
+    "name": "Ajanta Pharma Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "AJANTPHARM.NS"
+  },
+  {
+    "sym": "JBCHEPHARM",
+    "name": "JB Chemicals & Pharmaceuticals Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "JBCHEPHARM.NS"
+  },
+  {
+    "sym": "GLENMARK",
+    "name": "Glenmark Pharmaceuticals Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "GLENMARK.NS"
+  },
+  {
+    "sym": "ERIS",
+    "name": "Eris Lifesciences Ltd",
+    "sector": "Healthcare",
+    "cap": "Small Cap",
+    "yahoo": "ERIS.NS"
+  },
+  {
+    "sym": "PFIZER",
+    "name": "Pfizer Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "PFIZER.NS"
+  },
+  {
+    "sym": "SANOFI",
+    "name": "Sanofi India Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "SANOFI.NS"
+  },
+  {
+    "sym": "GLAXO",
+    "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "GLAXO.NS"
+  },
+  {
+    "sym": "ABFRL",
+    "name": "Aditya Birla Fashion and Retail Ltd",
+    "sector": "Retail",
+    "cap": "Mid Cap",
+    "yahoo": "ABFRL.NS"
+  },
+  {
+    "sym": "PAGEIND",
+    "name": "Page Industries Ltd",
+    "sector": "Retail",
+    "cap": "Large Cap",
+    "yahoo": "PAGEIND.NS"
+  },
+  {
+    "sym": "KALYANKJIL",
+    "name": "Kalyan Jewellers India Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Large Cap",
+    "yahoo": "KALYANKJIL.NS"
+  },
+  {
+    "sym": "SENCO",
+    "name": "Senco Gold Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Small Cap",
+    "yahoo": "SENCO.NS"
+  },
+  {
+    "sym": "VAIBHAVGBL",
+    "name": "Vaibhav Global Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Small Cap",
+    "yahoo": "VAIBHAVGBL.NS"
+  },
+  {
+    "sym": "METROBRAND",
+    "name": "Metro Brands Ltd",
+    "sector": "Retail",
+    "cap": "Mid Cap",
+    "yahoo": "METROBRAND.NS"
+  },
+  {
+    "sym": "BATAINDIA",
+    "name": "Bata India Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Mid Cap",
+    "yahoo": "BATAINDIA.NS"
+  },
+  {
+    "sym": "RELAXO",
+    "name": "Relaxo Footwears Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Mid Cap",
+    "yahoo": "RELAXO.NS"
+  },
+  {
+    "sym": "CAMPUS",
+    "name": "Campus Activewear Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Small Cap",
+    "yahoo": "CAMPUS.NS"
+  },
+  {
+    "sym": "REDTAPE",
+    "name": "Redtape Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Small Cap",
+    "yahoo": "REDTAPE.NS"
+  },
+  {
+    "sym": "VIPIND",
+    "name": "VIP Industries Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Small Cap",
+    "yahoo": "VIPIND.NS"
+  },
+  {
+    "sym": "SAFARI",
+    "name": "Safari Industries (India) Ltd",
+    "sector": "Consumer Durables",
+    "cap": "Small Cap",
+    "yahoo": "SAFARI.NS"
+  },
+  {
+    "sym": "CENTURYPLY",
+    "name": "Century Plyboards (India) Ltd",
+    "sector": "Materials",
+    "cap": "Small Cap",
+    "yahoo": "CENTURYPLY.NS"
+  },
+  {
+    "sym": "GREENPANEL",
+    "name": "Greenpanel Industries Ltd",
+    "sector": "Materials",
+    "cap": "Small Cap",
+    "yahoo": "GREENPANEL.NS"
+  },
+  {
+    "sym": "KAJARIACER",
+    "name": "Kajaria Ceramics Ltd",
+    "sector": "Materials",
+    "cap": "Mid Cap",
+    "yahoo": "KAJARIACER.NS"
+  },
+  {
+    "sym": "CERA",
+    "name": "Cera Sanitaryware Ltd",
+    "sector": "Materials",
+    "cap": "Small Cap",
+    "yahoo": "CERA.NS"
+  },
+  {
+    "sym": "SOMANYCERA",
+    "name": "Somany Ceramics Ltd",
+    "sector": "Materials",
+    "cap": "Small Cap",
+    "yahoo": "SOMANYCERA.NS"
+  },
+  {
+    "sym": "FINOLEXIND",
+    "name": "Finolex Industries Ltd",
+    "sector": "Materials",
+    "cap": "Mid Cap",
+    "yahoo": "FINOLEXIND.NS"
+  },
+  {
+    "sym": "PRINCEPIPE",
+    "name": "Prince Pipes and Fittings Ltd",
+    "sector": "Materials",
+    "cap": "Small Cap",
+    "yahoo": "PRINCEPIPE.NS"
+  },
+  {
+    "sym": "SUPRAJIT",
+    "name": "Suprajit Engineering Ltd",
+    "sector": "Automobile",
+    "cap": "Small Cap",
+    "yahoo": "SUPRAJIT.NS"
+  },
+  {
+    "sym": "ENDURANCE",
+    "name": "Endurance Technologies Ltd",
+    "sector": "Automobile",
+    "cap": "Mid Cap",
+    "yahoo": "ENDURANCE.NS"
+  },
+  {
+    "sym": "CRAFTSMAN",
+    "name": "Craftsman Automation Ltd",
+    "sector": "Automobile",
+    "cap": "Small Cap",
+    "yahoo": "CRAFTSMAN.NS"
+  },
+  {
+    "sym": "ROLEXRINGS",
+    "name": "Rolex Rings Ltd",
+    "sector": "Automobile",
+    "cap": "Small Cap",
+    "yahoo": "ROLEXRINGS.NS"
+  },
+  {
+    "sym": "CIEINDIA",
+    "name": "CIE Automotive India Ltd",
+    "sector": "Automobile",
+    "cap": "Mid Cap",
+    "yahoo": "CIEINDIA.NS"
+  },
+  {
+    "sym": "LUMAXTECH",
+    "name": "Lumax Auto Technologies Ltd",
+    "sector": "Automobile",
+    "cap": "Small Cap",
+    "yahoo": "LUMAXTECH.NS"
+  },
+  {
+    "sym": "UNOMINDA",
+    "name": "Uno Minda Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "UNOMINDA.NS"
+  },
+  {
+    "sym": "VARROC",
+    "name": "Varroc Engineering Ltd",
+    "sector": "Automobile",
+    "cap": "Small Cap",
+    "yahoo": "VARROC.NS"
+  },
+  {
+    "sym": "SUBROS",
+    "name": "Subros Ltd",
+    "sector": "Automobile",
+    "cap": "Small Cap",
+    "yahoo": "SUBROS.NS"
+  },
+  {
+    "sym": "GABRIEL",
+    "name": "Gabriel India Ltd",
+    "sector": "Automobile",
+    "cap": "Small Cap",
+    "yahoo": "GABRIEL.NS"
+  },
+  {
+    "sym": "TIMKEN",
+    "name": "Timken India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "TIMKEN.NS"
+  },
+  {
+    "sym": "SKFINDIA",
+    "name": "SKF India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "SKFINDIA.NS"
+  },
+  {
+    "sym": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "SCHAEFFLER.NS"
+  },
+  {
+    "sym": "AIAENG",
+    "name": "AIA Engineering Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "AIAENG.NS"
+  },
+  {
+    "sym": "CARBORUNIV",
+    "name": "Carborundum Universal Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "CARBORUNIV.NS"
+  },
+  {
+    "sym": "GRINDWELL",
+    "name": "Grindwell Norton Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "GRINDWELL.NS"
+  },
+  {
+    "sym": "ELGIEQUIP",
+    "name": "Elgi Equipments Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "ELGIEQUIP.NS"
+  },
+  {
+    "sym": "KSB",
+    "name": "KSB Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "KSB.NS"
+  },
+  {
+    "sym": "KIRLOSENG",
+    "name": "Kirloskar Oil Engines Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "KIRLOSENG.NS"
+  },
+  {
+    "sym": "TRITURBINE",
+    "name": "Triveni Turbine Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "TRITURBINE.NS"
+  },
+  {
+    "sym": "PRAJIND",
+    "name": "Praj Industries Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "PRAJIND.NS"
+  },
+  {
+    "sym": "ELECON",
+    "name": "Elecon Engineering Company Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "ELECON.NS"
+  },
+  {
+    "sym": "ACTIONCONST",
+    "name": "Action Construction Equipment Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "ACTIONCONST.NS"
+  },
+  {
+    "sym": "ENGINERSIN",
+    "name": "Engineers India Ltd",
+    "sector": "Infrastructure",
+    "cap": "Small Cap",
+    "yahoo": "ENGINERSIN.NS"
+  },
+  {
+    "sym": "RITES",
+    "name": "RITES Ltd",
+    "sector": "Infrastructure",
+    "cap": "Small Cap",
+    "yahoo": "RITES.NS"
+  },
+  {
+    "sym": "TITAGARH",
+    "name": "Titagarh Rail Systems Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "TITAGARH.NS"
+  },
+  {
+    "sym": "JWL",
+    "name": "Jupiter Wagons Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "JWL.NS"
+  },
+  {
+    "sym": "TEXRAIL",
+    "name": "Texmaco Rail & Engineering Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "TEXRAIL.NS"
+  },
+  {
+    "sym": "RAILTEL",
+    "name": "RailTel Corporation of India Ltd",
+    "sector": "Telecom",
+    "cap": "Small Cap",
+    "yahoo": "RAILTEL.NS"
+  },
+  {
+    "sym": "ITDC",
+    "name": "India Tourism Development Corp Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "ITDC.NS"
+  },
+  {
+    "sym": "LEMONTREE",
+    "name": "Lemon Tree Hotels Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "LEMONTREE.NS"
+  },
+  {
+    "sym": "CHALET",
+    "name": "Chalet Hotels Ltd",
+    "sector": "Consumer Services",
+    "cap": "Mid Cap",
+    "yahoo": "CHALET.NS"
+  },
+  {
+    "sym": "EIHOTEL",
+    "name": "EIH Ltd (Oberoi Hotels)",
+    "sector": "Consumer Services",
+    "cap": "Mid Cap",
+    "yahoo": "EIHOTEL.NS"
+  },
+  {
+    "sym": "BLS",
+    "name": "BLS International Services Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "BLS.NS"
+  },
+  {
+    "sym": "EASEMYTRIP",
+    "name": "Easy Trip Planners Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "EASEMYTRIP.NS"
+  },
+  {
+    "sym": "NAZARA",
+    "name": "Nazara Technologies Ltd",
+    "sector": "Gaming & Media",
+    "cap": "Small Cap",
+    "yahoo": "NAZARA.NS"
+  },
+  {
+    "sym": "ONMOBILE",
+    "name": "OnMobile Global Ltd",
+    "sector": "Gaming & Media",
+    "cap": "Small Cap",
+    "yahoo": "ONMOBILE.NS"
+  },
+  {
+    "sym": "ROUTE",
+    "name": "Route Mobile Ltd",
+    "sector": "Telecom",
+    "cap": "Small Cap",
+    "yahoo": "ROUTE.NS"
+  },
+  {
+    "sym": "TANLA",
+    "name": "Tanla Platforms Ltd",
+    "sector": "IT Services",
+    "cap": "Small Cap",
+    "yahoo": "TANLA.NS"
+  },
+  {
+    "sym": "JUSTDIAL",
+    "name": "Just Dial Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "JUSTDIAL.NS"
+  },
+  {
+    "sym": "NEWGEN",
+    "name": "Newgen Software Technologies Ltd",
+    "sector": "IT Services",
+    "cap": "Small Cap",
+    "yahoo": "NEWGEN.NS"
+  },
+  {
+    "sym": "DATAPATTNS",
+    "name": "Data Patterns (India) Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Small Cap",
+    "yahoo": "DATAPATTNS.NS"
+  },
+  {
+    "sym": "MTARTECH",
+    "name": "MTAR Technologies Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Small Cap",
+    "yahoo": "MTARTECH.NS"
+  },
+  {
+    "sym": "PARAS",
+    "name": "Paras Defence and Space Technologies Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Small Cap",
+    "yahoo": "PARAS.NS"
+  },
+  {
+    "sym": "CENTUM",
+    "name": "Centum Electronics Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Small Cap",
+    "yahoo": "CENTUM.NS"
+  },
+  {
+    "sym": "DCXINDIA",
+    "name": "DCX Systems Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Small Cap",
+    "yahoo": "DCXINDIA.NS"
+  },
+  {
+    "sym": "CYIENTDLM",
+    "name": "Cyient DLM Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Small Cap",
+    "yahoo": "CYIENTDLM.NS"
+  },
+  {
+    "sym": "IDEAFFORGE",
+    "name": "ideaForge Technology Ltd",
+    "sector": "Defense & Aerospace",
+    "cap": "Small Cap",
+    "yahoo": "IDEAFFORGE.NS"
+  },
+  {
+    "sym": "PREMIERENE",
+    "name": "Premier Energies Ltd",
+    "sector": "Energy",
+    "cap": "Mid Cap",
+    "yahoo": "PREMIERENE.NS"
+  },
+  {
+    "sym": "WAAREE",
+    "name": "Waaree Energies Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "WAAREE.NS"
+  },
+  {
+    "sym": "HYUNDAI",
+    "name": "Hyundai Motor India Ltd",
+    "sector": "Automobile",
+    "cap": "Large Cap",
+    "yahoo": "HYUNDAI.NS"
+  },
+  {
+    "sym": "SWIGGY",
+    "name": "Swiggy Ltd",
+    "sector": "Consumer Services",
+    "cap": "Large Cap",
+    "yahoo": "SWIGGY.NS"
+  },
+  {
+    "sym": "NTPCGREEN",
+    "name": "NTPC Green Energy Ltd",
+    "sector": "Energy",
+    "cap": "Large Cap",
+    "yahoo": "NTPCGREEN.NS"
+  },
+  {
+    "sym": "AVALON",
+    "name": "Avalon Technologies Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "AVALON.NS"
+  },
+  {
+    "sym": "NETWEB",
+    "name": "Netweb Technologies India Ltd",
+    "sector": "IT Services",
+    "cap": "Small Cap",
+    "yahoo": "NETWEB.NS"
+  },
+  {
+    "sym": "RRKABEL",
+    "name": "R R Kabel Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "RRKABEL.NS"
+  },
+  {
+    "sym": "SIGNATURE",
+    "name": "Signatureglobal (India) Ltd",
+    "sector": "Realty",
+    "cap": "Mid Cap",
+    "yahoo": "SIGNATURE.NS"
+  },
+  {
+    "sym": "HONASA",
+    "name": "Honasa Consumer Ltd (Mamaearth)",
+    "sector": "FMCG",
+    "cap": "Small Cap",
+    "yahoo": "HONASA.NS"
+  },
+  {
+    "sym": "INOXINDIA",
+    "name": "INOX India Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "INOXINDIA.NS"
+  },
+  {
+    "sym": "JYOTICNC",
+    "name": "Jyoti CNC Automation Ltd",
+    "sector": "Capital Goods",
+    "cap": "Mid Cap",
+    "yahoo": "JYOTICNC.NS"
+  },
+  {
+    "sym": "MEDIASSIST",
+    "name": "Medi Assist Healthcare Services Ltd",
+    "sector": "Healthcare",
+    "cap": "Small Cap",
+    "yahoo": "MEDIASSIST.NS"
+  },
+  {
+    "sym": "BHARTI-HEXA",
+    "name": "Bharti Hexacom Ltd",
+    "sector": "Telecom",
+    "cap": "Large Cap",
+    "yahoo": "BHARTI-HEXA.NS"
+  },
+  {
+    "sym": "AADHARHFC",
+    "name": "Aadhar Housing Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid Cap",
+    "yahoo": "AADHARHFC.NS"
+  },
+  {
+    "sym": "TBO-TEK",
+    "name": "TBO Tek Ltd",
+    "sector": "Consumer Services",
+    "cap": "Small Cap",
+    "yahoo": "TBO-TEK.NS"
+  },
+  {
+    "sym": "EMCURE",
+    "name": "Emcure Pharmaceuticals Ltd",
+    "sector": "Healthcare",
+    "cap": "Mid Cap",
+    "yahoo": "EMCURE.NS"
+  },
+  {
+    "sym": "BAJAJHOUS",
+    "name": "Bajaj Housing Finance Ltd",
+    "sector": "Financial Services",
+    "cap": "Large Cap",
+    "yahoo": "BAJAJHOUS.NS"
+  },
+  {
+    "sym": "KRN",
+    "name": "KRN Heat Exchanger and Refrigeration Ltd",
+    "sector": "Capital Goods",
+    "cap": "Small Cap",
+    "yahoo": "KRN.NS"
+  },
+  {
+    "sym": "360ONE",
+    "name": "360ONE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "360ONE.NS"
+  },
+  {
+    "sym": "3MINDIA",
+    "name": "3MINDIA Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Mid/Small Cap",
+    "yahoo": "3MINDIA.NS"
+  },
+  {
+    "sym": "AARTIDRUGS",
+    "name": "AARTIDRUGS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AARTIDRUGS.NS"
+  },
+  {
+    "sym": "AARTIIND",
+    "name": "AARTIIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AARTIIND.NS"
+  },
+  {
+    "sym": "ABBOTINDIA",
+    "name": "ABBOTINDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ABBOTINDIA.NS"
+  },
+  {
+    "sym": "ACE",
+    "name": "ACE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ACE.NS"
+  },
+  {
+    "sym": "ADANIENSOL",
+    "name": "ADANIENSOL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ADANIENSOL.NS"
+  },
+  {
+    "sym": "ADANIGREEN",
+    "name": "ADANIGREEN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ADANIGREEN.NS"
+  },
+  {
+    "sym": "ADANITRANS",
+    "name": "ADANITRANS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ADANITRANS.NS"
+  },
+  {
+    "sym": "ADVANIHOTR",
+    "name": "ADVANIHOTR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ADVANIHOTR.NS"
+  },
+  {
+    "sym": "AEGISCHEM",
+    "name": "AEGISCHEM Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AEGISCHEM.NS"
+  },
+  {
+    "sym": "AGARIND",
+    "name": "AGARIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AGARIND.NS"
+  },
+  {
+    "sym": "AHLUCONT",
+    "name": "AHLUCONT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AHLUCONT.NS"
+  },
+  {
+    "sym": "AJMERA",
+    "name": "AJMERA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AJMERA.NS"
+  },
+  {
+    "sym": "AKZOINDIA",
+    "name": "AKZOINDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AKZOINDIA.NS"
+  },
+  {
+    "sym": "ALEMBICLTD",
+    "name": "ALEMBICLTD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ALEMBICLTD.NS"
+  },
+  {
+    "sym": "ALICON",
+    "name": "ALICON Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ALICON.NS"
+  },
+  {
+    "sym": "ALLCARGO",
+    "name": "ALLCARGO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ALLCARGO.NS"
+  },
+  {
+    "sym": "ALOKINDS",
+    "name": "ALOKINDS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ALOKINDS.NS"
+  },
+  {
+    "sym": "ALPA",
+    "name": "ALPA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ALPA.NS"
+  },
+  {
+    "sym": "AMARAJABAT",
+    "name": "AMARAJABAT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AMARAJABAT.NS"
+  },
+  {
+    "sym": "AMBICAAGAR",
+    "name": "AMBICAAGAR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AMBICAAGAR.NS"
+  },
+  {
+    "sym": "ANANTRAJ",
+    "name": "ANANTRAJ Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ANANTRAJ.NS"
+  },
+  {
+    "sym": "ANDHRAPAP",
+    "name": "ANDHRAPAP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ANDHRAPAP.NS"
+  },
+  {
+    "sym": "ANDHRSUGAR",
+    "name": "ANDHRSUGAR Ltd",
+    "sector": "FMCG",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ANDHRSUGAR.NS"
+  },
+  {
+    "sym": "ANIKINDS",
+    "name": "ANIKINDS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ANIKINDS.NS"
+  },
+  {
+    "sym": "APARINDS",
+    "name": "APARINDS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APARINDS.NS"
+  },
+  {
+    "sym": "APCL",
+    "name": "APCL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APCL.NS"
+  },
+  {
+    "sym": "APCOTEXIND",
+    "name": "APCOTEXIND Ltd",
+    "sector": "Textiles",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APCOTEXIND.NS"
+  },
+  {
+    "sym": "APLAPOLLO",
+    "name": "APLAPOLLO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APLAPOLLO.NS"
+  },
+  {
+    "sym": "APLLTD",
+    "name": "APLLTD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APLLTD.NS"
+  },
+  {
+    "sym": "APOLLO",
+    "name": "APOLLO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APOLLO.NS"
+  },
+  {
+    "sym": "APOLLOTYRE",
+    "name": "APOLLOTYRE Ltd",
+    "sector": "Automobile",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APOLLOTYRE.NS"
+  },
+  {
+    "sym": "APOLSINHOT",
+    "name": "APOLSINHOT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APOLSINHOT.NS"
+  },
+  {
+    "sym": "APTECHT",
+    "name": "APTECHT Ltd",
+    "sector": "IT Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "APTECHT.NS"
+  },
+  {
+    "sym": "ARCHIDPLY",
+    "name": "ARCHIDPLY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ARCHIDPLY.NS"
+  },
+  {
+    "sym": "ARCHIES",
+    "name": "ARCHIES Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ARCHIES.NS"
+  },
+  {
+    "sym": "ARE&M",
+    "name": "ARE&M Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ARE&M.NS"
+  },
+  {
+    "sym": "ARIES",
+    "name": "ARIES Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ARIES.NS"
+  },
+  {
+    "sym": "ARMANFIN",
+    "name": "ARMANFIN Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ARMANFIN.NS"
+  },
+  {
+    "sym": "ARVIND",
+    "name": "ARVIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ARVIND.NS"
+  },
+  {
+    "sym": "ARVINDFASN",
+    "name": "ARVINDFASN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ARVINDFASN.NS"
+  },
+  {
+    "sym": "ASAHIINDIA",
+    "name": "ASAHIINDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASAHIINDIA.NS"
+  },
+  {
+    "sym": "ASHIANA",
+    "name": "ASHIANA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASHIANA.NS"
+  },
+  {
+    "sym": "ASHOKA",
+    "name": "ASHOKA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASHOKA.NS"
+  },
+  {
+    "sym": "ASHOKLEY",
+    "name": "ASHOKLEY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASHOKLEY.NS"
+  },
+  {
+    "sym": "ASPINWALL",
+    "name": "ASPINWALL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASPINWALL.NS"
+  },
+  {
+    "sym": "ASTEC",
+    "name": "ASTEC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASTEC.NS"
+  },
+  {
+    "sym": "ASTRAMICRO",
+    "name": "ASTRAMICRO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASTRAMICRO.NS"
+  },
+  {
+    "sym": "ASTRAZEN",
+    "name": "ASTRAZEN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ASTRAZEN.NS"
+  },
+  {
+    "sym": "ATFL",
+    "name": "ATFL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ATFL.NS"
+  },
+  {
+    "sym": "ATGL",
+    "name": "ATGL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ATGL.NS"
+  },
+  {
+    "sym": "ATLANTA",
+    "name": "ATLANTA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ATLANTA.NS"
+  },
+  {
+    "sym": "ATUL",
+    "name": "ATUL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ATUL.NS"
+  },
+  {
+    "sym": "ATULAUTO",
+    "name": "ATULAUTO Ltd",
+    "sector": "Automobile",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ATULAUTO.NS"
+  },
+  {
+    "sym": "AURIONPRO",
+    "name": "AURIONPRO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AURIONPRO.NS"
+  },
+  {
+    "sym": "AVANTIFEED",
+    "name": "AVANTIFEED Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AVANTIFEED.NS"
+  },
+  {
+    "sym": "AVG",
+    "name": "AVG Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AVG.NS"
+  },
+  {
+    "sym": "AXISCADES",
+    "name": "AXISCADES Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AXISCADES.NS"
+  },
+  {
+    "sym": "AYMSYNTEX",
+    "name": "AYMSYNTEX Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "AYMSYNTEX.NS"
+  },
+  {
+    "sym": "BAJAJCON",
+    "name": "BAJAJCON Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BAJAJCON.NS"
+  },
+  {
+    "sym": "BAJAJELEC",
+    "name": "BAJAJELEC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BAJAJELEC.NS"
+  },
+  {
+    "sym": "BAJAJHIND",
+    "name": "BAJAJHIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BAJAJHIND.NS"
+  },
+  {
+    "sym": "BAJAJHLDNG",
+    "name": "BAJAJHLDNG Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BAJAJHLDNG.NS"
+  },
+  {
+    "sym": "BALAJITELE",
+    "name": "BALAJITELE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BALAJITELE.NS"
+  },
+  {
+    "sym": "BALAMINES",
+    "name": "BALAMINES Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BALAMINES.NS"
+  },
+  {
+    "sym": "BALMLAWRIE",
+    "name": "BALMLAWRIE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BALMLAWRIE.NS"
+  },
+  {
+    "sym": "BALRAMCHIN",
+    "name": "BALRAMCHIN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BALRAMCHIN.NS"
+  },
+  {
+    "sym": "BANARISUG",
+    "name": "BANARISUG Ltd",
+    "sector": "FMCG",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BANARISUG.NS"
+  },
+  {
+    "sym": "BANCOINDIA",
+    "name": "BANCOINDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BANCOINDIA.NS"
+  },
+  {
+    "sym": "BANG",
+    "name": "BANG Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BANG.NS"
+  },
+  {
+    "sym": "BANKINDIA",
+    "name": "BANKINDIA Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BANKINDIA.NS"
+  },
+  {
+    "sym": "BASF",
+    "name": "BASF Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BASF.NS"
+  },
+  {
+    "sym": "BAYERCROP",
+    "name": "BAYERCROP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BAYERCROP.NS"
+  },
+  {
+    "sym": "BBL",
+    "name": "BBL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BBL.NS"
+  },
+  {
+    "sym": "BBTC",
+    "name": "BBTC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BBTC.NS"
+  },
+  {
+    "sym": "BCG",
+    "name": "BCG Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BCG.NS"
+  },
+  {
+    "sym": "BDL",
+    "name": "BDL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BDL.NS"
+  },
+  {
+    "sym": "BECTORFOOD",
+    "name": "BECTORFOOD Ltd",
+    "sector": "FMCG",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BECTORFOOD.NS"
+  },
+  {
+    "sym": "BEDMUTHA",
+    "name": "BEDMUTHA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BEDMUTHA.NS"
+  },
+  {
+    "sym": "BEML",
+    "name": "BEML Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BEML.NS"
+  },
+  {
+    "sym": "BEPL",
+    "name": "BEPL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BEPL.NS"
+  },
+  {
+    "sym": "BFUTILITIE",
+    "name": "BFUTILITIE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BFUTILITIE.NS"
+  },
+  {
+    "sym": "BFINVEST",
+    "name": "BFINVEST Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BFINVEST.NS"
+  },
+  {
+    "sym": "BGRENERGY",
+    "name": "BGRENERGY Ltd",
+    "sector": "Energy & Power",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BGRENERGY.NS"
+  },
+  {
+    "sym": "BHAGCHEM",
+    "name": "BHAGCHEM Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BHAGCHEM.NS"
+  },
+  {
+    "sym": "BHAGERIA",
+    "name": "BHAGERIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BHAGERIA.NS"
+  },
+  {
+    "sym": "BHANDARI",
+    "name": "BHANDARI Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BHANDARI.NS"
+  },
+  {
+    "sym": "BHARATGEAR",
+    "name": "BHARATGEAR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BHARATGEAR.NS"
+  },
+  {
+    "sym": "BHARATRAS",
+    "name": "BHARATRAS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BHARATRAS.NS"
+  },
+  {
+    "sym": "BHARATWIRE",
+    "name": "BHARATWIRE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BHARATWIRE.NS"
+  },
+  {
+    "sym": "BIGBLOC",
+    "name": "BIGBLOC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BIGBLOC.NS"
+  },
+  {
+    "sym": "BIL",
+    "name": "BIL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BIL.NS"
+  },
+  {
+    "sym": "BINDALAGRO",
+    "name": "BINDALAGRO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BINDALAGRO.NS"
+  },
+  {
+    "sym": "BIOFILCHEM",
+    "name": "BIOFILCHEM Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BIOFILCHEM.NS"
+  },
+  {
+    "sym": "BIRLACABLE",
+    "name": "BIRLACABLE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BIRLACABLE.NS"
+  },
+  {
+    "sym": "BIRLACORPN",
+    "name": "BIRLACORPN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BIRLACORPN.NS"
+  },
+  {
+    "sym": "BIRLAMONEY",
+    "name": "BIRLAMONEY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BIRLAMONEY.NS"
+  },
+  {
+    "sym": "BLISSGVS",
+    "name": "BLISSGVS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BLISSGVS.NS"
+  },
+  {
+    "sym": "BLKASHYAP",
+    "name": "BLKASHYAP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BLKASHYAP.NS"
+  },
+  {
+    "sym": "BLUECHIP",
+    "name": "BLUECHIP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BLUECHIP.NS"
+  },
+  {
+    "sym": "BLUEDART",
+    "name": "BLUEDART Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BLUEDART.NS"
+  },
+  {
+    "sym": "BOMDYEING",
+    "name": "BOMDYEING Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BOMDYEING.NS"
+  },
+  {
+    "sym": "BOROLTD",
+    "name": "BOROLTD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BOROLTD.NS"
+  },
+  {
+    "sym": "BORORENEW",
+    "name": "BORORENEW Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BORORENEW.NS"
+  },
+  {
+    "sym": "BOSCHLTD",
+    "name": "BOSCHLTD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BOSCHLTD.NS"
+  },
+  {
+    "sym": "BPL",
+    "name": "BPL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BPL.NS"
+  },
+  {
+    "sym": "BRNL",
+    "name": "BRNL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BRNL.NS"
+  },
+  {
+    "sym": "BSL",
+    "name": "BSL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BSL.NS"
+  },
+  {
+    "sym": "BSOFT",
+    "name": "BSOFT Ltd",
+    "sector": "IT Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BSOFT.NS"
+  },
+  {
+    "sym": "BURNPUR",
+    "name": "BURNPUR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BURNPUR.NS"
+  },
+  {
+    "sym": "BUTTERFLY",
+    "name": "BUTTERFLY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BUTTERFLY.NS"
+  },
+  {
+    "sym": "BVCL",
+    "name": "BVCL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BVCL.NS"
+  },
+  {
+    "sym": "BYKE",
+    "name": "BYKE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "BYKE.NS"
+  },
+  {
+    "sym": "CALSOFT",
+    "name": "CALSOFT Ltd",
+    "sector": "IT Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CALSOFT.NS"
+  },
+  {
+    "sym": "CAMLINFINE",
+    "name": "CAMLINFINE Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CAMLINFINE.NS"
+  },
+  {
+    "sym": "CANFINHOME",
+    "name": "CANFINHOME Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CANFINHOME.NS"
+  },
+  {
+    "sym": "CANTABIL",
+    "name": "CANTABIL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CANTABIL.NS"
+  },
+  {
+    "sym": "CAPACITE",
+    "name": "CAPACITE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CAPACITE.NS"
+  },
+  {
+    "sym": "CAPL",
+    "name": "CAPL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CAPL.NS"
+  },
+  {
+    "sym": "CAREERP",
+    "name": "CAREERP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CAREERP.NS"
+  },
+  {
+    "sym": "CARERATING",
+    "name": "CARERATING Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CARERATING.NS"
+  },
+  {
+    "sym": "CASTROLIND",
+    "name": "CASTROLIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CASTROLIND.NS"
+  },
+  {
+    "sym": "CCCL",
+    "name": "CCCL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CCCL.NS"
+  },
+  {
+    "sym": "CCHHL",
+    "name": "CCHHL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CCHHL.NS"
+  },
+  {
+    "sym": "CCL",
+    "name": "CCL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CCL.NS"
+  },
+  {
+    "sym": "CELEBRITY",
+    "name": "CELEBRITY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CELEBRITY.NS"
+  },
+  {
+    "sym": "CENTENKA",
+    "name": "CENTENKA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CENTENKA.NS"
+  },
+  {
+    "sym": "CENTEXT",
+    "name": "CENTEXT Ltd",
+    "sector": "Textiles",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CENTEXT.NS"
+  },
+  {
+    "sym": "CENTRALBK",
+    "name": "CENTRALBK Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CENTRALBK.NS"
+  },
+  {
+    "sym": "CENTRUM",
+    "name": "CENTRUM Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CENTRUM.NS"
+  },
+  {
+    "sym": "CENTURYTEX",
+    "name": "CENTURYTEX Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CENTURYTEX.NS"
+  },
+  {
+    "sym": "CEREBRAINT",
+    "name": "CEREBRAINT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CEREBRAINT.NS"
+  },
+  {
+    "sym": "CGCL",
+    "name": "CGCL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CGCL.NS"
+  },
+  {
+    "sym": "CGPOWER",
+    "name": "CGPOWER Ltd",
+    "sector": "Energy & Power",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CGPOWER.NS"
+  },
+  {
+    "sym": "CHAMBLFERT",
+    "name": "CHAMBLFERT Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CHAMBLFERT.NS"
+  },
+  {
+    "sym": "CHEMBOND",
+    "name": "CHEMBOND Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CHEMBOND.NS"
+  },
+  {
+    "sym": "CHEMCON",
+    "name": "CHEMCON Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CHEMCON.NS"
+  },
+  {
+    "sym": "CHEMFAB",
+    "name": "CHEMFAB Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CHEMFAB.NS"
+  },
+  {
+    "sym": "CHEMPLASTS",
+    "name": "CHEMPLASTS Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CHEMPLASTS.NS"
+  },
+  {
+    "sym": "CHENNPETRO",
+    "name": "CHENNPETRO Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CHENNPETRO.NS"
+  },
+  {
+    "sym": "CHOLAHLDNG",
+    "name": "CHOLAHLDNG Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CHOLAHLDNG.NS"
+  },
+  {
+    "sym": "CIGNITITEC",
+    "name": "CIGNITITEC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CIGNITITEC.NS"
+  },
+  {
+    "sym": "CINELINE",
+    "name": "CINELINE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CINELINE.NS"
+  },
+  {
+    "sym": "CINEVISTA",
+    "name": "CINEVISTA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CINEVISTA.NS"
+  },
+  {
+    "sym": "CLEAN",
+    "name": "CLEAN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CLEAN.NS"
+  },
+  {
+    "sym": "CLEDUCATE",
+    "name": "CLEDUCATE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CLEDUCATE.NS"
+  },
+  {
+    "sym": "CLNINDIA",
+    "name": "CLNINDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CLNINDIA.NS"
+  },
+  {
+    "sym": "COLPAL",
+    "name": "COLPAL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "COLPAL.NS"
+  },
+  {
+    "sym": "COMPUSOFT",
+    "name": "COMPUSOFT Ltd",
+    "sector": "IT Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "COMPUSOFT.NS"
+  },
+  {
+    "sym": "CONCOR",
+    "name": "CONCOR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CONCOR.NS"
+  },
+  {
+    "sym": "CONFIPET",
+    "name": "CONFIPET Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CONFIPET.NS"
+  },
+  {
+    "sym": "COROMANDEL",
+    "name": "COROMANDEL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "COROMANDEL.NS"
+  },
+  {
+    "sym": "COSMOFIRST",
+    "name": "COSMOFIRST Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "COSMOFIRST.NS"
+  },
+  {
+    "sym": "COUNCODOS",
+    "name": "COUNCODOS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "COUNCODOS.NS"
+  },
+  {
+    "sym": "CREATIVE",
+    "name": "CREATIVE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CREATIVE.NS"
+  },
+  {
+    "sym": "CREST",
+    "name": "CREST Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CREST.NS"
+  },
+  {
+    "sym": "CRISIL",
+    "name": "CRISIL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CRISIL.NS"
+  },
+  {
+    "sym": "CSBBANK",
+    "name": "CSBBANK Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CSBBANK.NS"
+  },
+  {
+    "sym": "CSLFINANCE",
+    "name": "CSLFINANCE Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CSLFINANCE.NS"
+  },
+  {
+    "sym": "CUB",
+    "name": "CUB Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CUB.NS"
+  },
+  {
+    "sym": "CUBEXTUB",
+    "name": "CUBEXTUB Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CUBEXTUB.NS"
+  },
+  {
+    "sym": "CUPID",
+    "name": "CUPID Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "CUPID.NS"
+  },
+  {
+    "sym": "DAAWAT",
+    "name": "DAAWAT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DAAWAT.NS"
+  },
+  {
+    "sym": "DALMIASUG",
+    "name": "DALMIASUG Ltd",
+    "sector": "FMCG",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DALMIASUG.NS"
+  },
+  {
+    "sym": "DAMODARIND",
+    "name": "DAMODARIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DAMODARIND.NS"
+  },
+  {
+    "sym": "DATAMATICS",
+    "name": "DATAMATICS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DATAMATICS.NS"
+  },
+  {
+    "sym": "DBCORP",
+    "name": "DBCORP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DBCORP.NS"
+  },
+  {
+    "sym": "DBL",
+    "name": "DBL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DBL.NS"
+  },
+  {
+    "sym": "DBREALTY",
+    "name": "DBREALTY Ltd",
+    "sector": "Infrastructure",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DBREALTY.NS"
+  },
+  {
+    "sym": "DCAL",
+    "name": "DCAL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DCAL.NS"
+  },
+  {
+    "sym": "DCBBANK",
+    "name": "DCBBANK Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DCBBANK.NS"
+  },
+  {
+    "sym": "DCM",
+    "name": "DCM Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DCM.NS"
+  },
+  {
+    "sym": "DCMNVL",
+    "name": "DCMNVL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DCMNVL.NS"
+  },
+  {
+    "sym": "DCMSHRIRAM",
+    "name": "DCMSHRIRAM Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DCMSHRIRAM.NS"
+  },
+  {
+    "sym": "DCMSRIND",
+    "name": "DCMSRIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DCMSRIND.NS"
+  },
+  {
+    "sym": "DCW",
+    "name": "DCW Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DCW.NS"
+  },
+  {
+    "sym": "DECCANCE",
+    "name": "DECCANCE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DECCANCE.NS"
+  },
+  {
+    "sym": "DEEDEV",
+    "name": "DEEDEV Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DEEDEV.NS"
+  },
+  {
+    "sym": "DEEPAKFERT",
+    "name": "DEEPAKFERT Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DEEPAKFERT.NS"
+  },
+  {
+    "sym": "DELTACORP",
+    "name": "DELTACORP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DELTACORP.NS"
+  },
+  {
+    "sym": "DELTAMAGNT",
+    "name": "DELTAMAGNT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DELTAMAGNT.NS"
+  },
+  {
+    "sym": "DEN",
+    "name": "DEN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DEN.NS"
+  },
+  {
+    "sym": "DENORA",
+    "name": "DENORA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DENORA.NS"
+  },
+  {
+    "sym": "DHAMPURSUG",
+    "name": "DHAMPURSUG Ltd",
+    "sector": "FMCG",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DHAMPURSUG.NS"
+  },
+  {
+    "sym": "DHANI",
+    "name": "DHANI Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DHANI.NS"
+  },
+  {
+    "sym": "DHANUKA",
+    "name": "DHANUKA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DHANUKA.NS"
+  },
+  {
+    "sym": "DHARSUGAR",
+    "name": "DHARSUGAR Ltd",
+    "sector": "FMCG",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DHARSUGAR.NS"
+  },
+  {
+    "sym": "DHRUV",
+    "name": "DHRUV Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DHRUV.NS"
+  },
+  {
+    "sym": "DHUNINV",
+    "name": "DHUNINV Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DHUNINV.NS"
+  },
+  {
+    "sym": "DIAMONDYD",
+    "name": "DIAMONDYD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DIAMONDYD.NS"
+  },
+  {
+    "sym": "DICIND",
+    "name": "DICIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DICIND.NS"
+  },
+  {
+    "sym": "DISHTV",
+    "name": "DISHTV Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DISHTV.NS"
+  },
+  {
+    "sym": "DLINKINDIA",
+    "name": "DLINKINDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DLINKINDIA.NS"
+  },
+  {
+    "sym": "DMART",
+    "name": "DMART Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DMART.NS"
+  },
+  {
+    "sym": "DMCC",
+    "name": "DMCC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DMCC.NS"
+  },
+  {
+    "sym": "DOLLAR",
+    "name": "DOLLAR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DOLLAR.NS"
+  },
+  {
+    "sym": "DONEAR",
+    "name": "DONEAR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DONEAR.NS"
+  },
+  {
+    "sym": "DPABHUSHAN",
+    "name": "DPABHUSHAN Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DPABHUSHAN.NS"
+  },
+  {
+    "sym": "DPSCLTD",
+    "name": "DPSCLTD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DPSCLTD.NS"
+  },
+  {
+    "sym": "DPWIRES",
+    "name": "DPWIRES Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DPWIRES.NS"
+  },
+  {
+    "sym": "DREDGECORP",
+    "name": "DREDGECORP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DREDGECORP.NS"
+  },
+  {
+    "sym": "DSPCORP",
+    "name": "DSPCORP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DSPCORP.NS"
+  },
+  {
+    "sym": "DSSL",
+    "name": "DSSL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DSSL.NS"
+  },
+  {
+    "sym": "DTIL",
+    "name": "DTIL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DTIL.NS"
+  },
+  {
+    "sym": "DUCON",
+    "name": "DUCON Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DUCON.NS"
+  },
+  {
+    "sym": "DVL",
+    "name": "DVL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DVL.NS"
+  },
+  {
+    "sym": "DWARKESH",
+    "name": "DWARKESH Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DWARKESH.NS"
+  },
+  {
+    "sym": "DYCL",
+    "name": "DYCL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DYCL.NS"
+  },
+  {
+    "sym": "DYNAMATECH",
+    "name": "DYNAMATECH Ltd",
+    "sector": "IT Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DYNAMATECH.NS"
+  },
+  {
+    "sym": "DYNPRO",
+    "name": "DYNPRO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "DYNPRO.NS"
+  },
+  {
+    "sym": "E2E",
+    "name": "E2E Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "E2E.NS"
+  },
+  {
+    "sym": "EASTSILK",
+    "name": "EASTSILK Ltd",
+    "sector": "Textiles",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EASTSILK.NS"
+  },
+  {
+    "sym": "ECLERX",
+    "name": "ECLERX Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ECLERX.NS"
+  },
+  {
+    "sym": "EDELWEISS",
+    "name": "EDELWEISS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EDELWEISS.NS"
+  },
+  {
+    "sym": "EIDPARRY",
+    "name": "EIDPARRY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EIDPARRY.NS"
+  },
+  {
+    "sym": "EIHAHOTELS",
+    "name": "EIHAHOTELS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EIHAHOTELS.NS"
+  },
+  {
+    "sym": "EIMCOELECO",
+    "name": "EIMCOELECO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EIMCOELECO.NS"
+  },
+  {
+    "sym": "EKC",
+    "name": "EKC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EKC.NS"
+  },
+  {
+    "sym": "ELECTCAST",
+    "name": "ELECTCAST Ltd",
+    "sector": "Energy & Power",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ELECTCAST.NS"
+  },
+  {
+    "sym": "ELECTHERM",
+    "name": "ELECTHERM Ltd",
+    "sector": "Energy & Power",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ELECTHERM.NS"
+  },
+  {
+    "sym": "ELGIRUBCO",
+    "name": "ELGIRUBCO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ELGIRUBCO.NS"
+  },
+  {
+    "sym": "EMAMILTD",
+    "name": "EMAMILTD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EMAMILTD.NS"
+  },
+  {
+    "sym": "EMAMIPAP",
+    "name": "EMAMIPAP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EMAMIPAP.NS"
+  },
+  {
+    "sym": "EMAMIREAL",
+    "name": "EMAMIREAL Ltd",
+    "sector": "Infrastructure",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EMAMIREAL.NS"
+  },
+  {
+    "sym": "EMKAY",
+    "name": "EMKAY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EMKAY.NS"
+  },
+  {
+    "sym": "EMMBI",
+    "name": "EMMBI Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EMMBI.NS"
+  },
+  {
+    "sym": "EMUDHRA",
+    "name": "EMUDHRA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EMUDHRA.NS"
+  },
+  {
+    "sym": "ENERGYDEV",
+    "name": "ENERGYDEV Ltd",
+    "sector": "Energy & Power",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ENERGYDEV.NS"
+  },
+  {
+    "sym": "ENIL",
+    "name": "ENIL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ENIL.NS"
+  },
+  {
+    "sym": "EPL",
+    "name": "EPL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EPL.NS"
+  },
+  {
+    "sym": "EQUIPPP",
+    "name": "EQUIPPP Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EQUIPPP.NS"
+  },
+  {
+    "sym": "EQUITASBNK",
+    "name": "EQUITASBNK Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EQUITASBNK.NS"
+  },
+  {
+    "sym": "EROSMEDIA",
+    "name": "EROSMEDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EROSMEDIA.NS"
+  },
+  {
+    "sym": "ESABINDIA",
+    "name": "ESABINDIA Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ESABINDIA.NS"
+  },
+  {
+    "sym": "ESSARSHPNG",
+    "name": "ESSARSHPNG Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ESSARSHPNG.NS"
+  },
+  {
+    "sym": "ESTER",
+    "name": "ESTER Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ESTER.NS"
+  },
+  {
+    "sym": "ETHOSLTD",
+    "name": "ETHOSLTD Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "ETHOSLTD.NS"
+  },
+  {
+    "sym": "EUROTEXIND",
+    "name": "EUROTEXIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EUROTEXIND.NS"
+  },
+  {
+    "sym": "EVEREADY",
+    "name": "EVEREADY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EVEREADY.NS"
+  },
+  {
+    "sym": "EVERESTIND",
+    "name": "EVERESTIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EVERESTIND.NS"
+  },
+  {
+    "sym": "EXCEL",
+    "name": "EXCEL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EXCEL.NS"
+  },
+  {
+    "sym": "EXCELINDUS",
+    "name": "EXCELINDUS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EXCELINDUS.NS"
+  },
+  {
+    "sym": "EXPLEOSOL",
+    "name": "EXPLEOSOL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EXPLEOSOL.NS"
+  },
+  {
+    "sym": "EXXARO",
+    "name": "EXXARO Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "EXXARO.NS"
+  },
+  {
+    "sym": "FACT",
+    "name": "FACT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FACT.NS"
+  },
+  {
+    "sym": "FAIRCHEMOR",
+    "name": "FAIRCHEMOR Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FAIRCHEMOR.NS"
+  },
+  {
+    "sym": "FCL",
+    "name": "FCL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FCL.NS"
+  },
+  {
+    "sym": "FCONSUMER",
+    "name": "FCONSUMER Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FCONSUMER.NS"
+  },
+  {
+    "sym": "FCSSOFT",
+    "name": "FCSSOFT Ltd",
+    "sector": "IT Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FCSSOFT.NS"
+  },
+  {
+    "sym": "FDC",
+    "name": "FDC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FDC.NS"
+  },
+  {
+    "sym": "FIEMIND",
+    "name": "FIEMIND Ltd",
+    "sector": "Metals & Mining",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FIEMIND.NS"
+  },
+  {
+    "sym": "FILATEX",
+    "name": "FILATEX Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FILATEX.NS"
+  },
+  {
+    "sym": "FINCABLES",
+    "name": "FINCABLES Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FINCABLES.NS"
+  },
+  {
+    "sym": "FINEORG",
+    "name": "FINEORG Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FINEORG.NS"
+  },
+  {
+    "sym": "FINOPB",
+    "name": "FINOPB Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FINOPB.NS"
+  },
+  {
+    "sym": "FINPIPE",
+    "name": "FINPIPE Ltd",
+    "sector": "Financial Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FINPIPE.NS"
+  },
+  {
+    "sym": "FIVESTAR",
+    "name": "FIVESTAR Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FIVESTAR.NS"
+  },
+  {
+    "sym": "FLEXITUFF",
+    "name": "FLEXITUFF Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FLEXITUFF.NS"
+  },
+  {
+    "sym": "FLFL",
+    "name": "FLFL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FLFL.NS"
+  },
+  {
+    "sym": "FLUOROCHEM",
+    "name": "FLUOROCHEM Ltd",
+    "sector": "Chemicals",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FLUOROCHEM.NS"
+  },
+  {
+    "sym": "FMGOETZE",
+    "name": "FMGOETZE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FMGOETZE.NS"
+  },
+  {
+    "sym": "FMNL",
+    "name": "FMNL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FMNL.NS"
+  },
+  {
+    "sym": "FORCEMOT",
+    "name": "FORCEMOT Ltd",
+    "sector": "Automobile",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FORCEMOT.NS"
+  },
+  {
+    "sym": "FOSECOIND",
+    "name": "FOSECOIND Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FOSECOIND.NS"
+  },
+  {
+    "sym": "FSL",
+    "name": "FSL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "FSL.NS"
+  },
+  {
+    "sym": "GAEL",
+    "name": "GAEL Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GAEL.NS"
+  },
+  {
+    "sym": "GALAXYSURF",
+    "name": "GALAXYSURF Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GALAXYSURF.NS"
+  },
+  {
+    "sym": "GALLANTT",
+    "name": "GALLANTT Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GALLANTT.NS"
+  },
+  {
+    "sym": "GANDHITUBE",
+    "name": "GANDHITUBE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GANDHITUBE.NS"
+  },
+  {
+    "sym": "GANECOS",
+    "name": "GANECOS Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GANECOS.NS"
+  },
+  {
+    "sym": "GANESHBE",
+    "name": "GANESHBE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GANESHBE.NS"
+  },
+  {
+    "sym": "GANESHHOUC",
+    "name": "GANESHHOUC Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GANESHHOUC.NS"
+  },
+  {
+    "sym": "GANGAFORGE",
+    "name": "GANGAFORGE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GANGAFORGE.NS"
+  },
+  {
+    "sym": "GANGESSECU",
+    "name": "GANGESSECU Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GANGESSECU.NS"
+  },
+  {
+    "sym": "GARFIBRES",
+    "name": "GARFIBRES Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GARFIBRES.NS"
+  },
+  {
+    "sym": "GATECH",
+    "name": "GATECH Ltd",
+    "sector": "IT Services",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GATECH.NS"
+  },
+  {
+    "sym": "GATEWAY",
+    "name": "GATEWAY Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GATEWAY.NS"
+  },
+  {
+    "sym": "GATI",
+    "name": "GATI Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GATI.NS"
+  },
+  {
+    "sym": "GEECEE",
+    "name": "GEECEE Ltd",
+    "sector": "Diversified",
+    "cap": "Mid/Small Cap",
+    "yahoo": "GEECEE.NS"
+  }
+]

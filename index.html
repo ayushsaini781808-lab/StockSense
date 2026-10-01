@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StockSense AI | 500+ Indian Stock Screener, ML Predictor & AI Analyst</title>
+    <meta name="description" content="Next-generation Indian stock market platform with 500+ NSE/BSE equities, scikit-learn Linear Regression forecasting, real-time quotes, and an LLM AI Analyst.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ─── AMBIENT BACKGROUND ORBS ─── -->
+<div class="bg-orbs" aria-hidden="true">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+    <div class="orb orb-4"></div>
+</div>
+
+<!-- ─── TOP LIVE TICKER TAPE ─── -->
+<div class="ticker-tape-wrap" id="tickerTapeWrap">
+    <div class="ticker-tape-track" id="tickerTapeTrack">
+        <!-- Injected via script.js -->
+        <span class="ticker-item"><span class="t-sym">NIFTY 50</span> <span class="t-val">22,620.45</span> <span class="t-chg neg">-0.42%</span></span>
+        <span class="ticker-item"><span class="t-sym">SENSEX</span> <span class="t-val">72,480.29</span> <span class="t-chg neg">-0.07%</span></span>
+        <span class="ticker-item"><span class="t-sym">BANK NIFTY</span> <span class="t-val">54,633.05</span> <span class="t-chg pos">+0.69%</span></span>
+        <span class="ticker-item"><span class="t-sym">RELIANCE</span> <span class="t-val">₹1,187.00</span> <span class="t-chg pos">+0.42%</span></span>
+        <span class="ticker-item"><span class="t-sym">TCS</span> <span class="t-val">₹2,050.60</span> <span class="t-chg pos">+0.90%</span></span>
+        <span class="ticker-item"><span class="t-sym">HDFCBANK</span> <span class="t-val">₹708.70</span> <span class="t-chg neg">-1.94%</span></span>
+        <span class="ticker-item"><span class="t-sym">INFY</span> <span class="t-val">₹994.10</span> <span class="t-chg neg">-2.10%</span></span>
+        <span class="ticker-item"><span class="t-sym">ICICIBANK</span> <span class="t-val">₹1,321.70</span> <span class="t-chg pos">+2.28%</span></span>
+        <span class="ticker-item"><span class="t-sym">TATAMOTORS</span> <span class="t-val">₹421.65</span> <span class="t-chg pos">+1.15%</span></span>
+    </div>
+</div>
+
+<!-- ─── NAVBAR ─── -->
+<header class="navbar">
+    <a href="#" class="brand">
+        <span class="brand-icon">📈</span>
+        StockSense <span class="brand-ai">AI</span>
+        <span class="badge-version">v2.0 · 500+ Stocks</span>
+    </a>
+
+    <nav class="nav-links">
+        <a href="#dashboard">Dashboard</a>
+        <a href="#market">Indices</a>
+        <a href="#screener">500+ Screener</a>
+        <a href="#ai-analysis" class="nav-highlight">AI Lab (ML+LLM)</a>
+        <a href="#predictions">Targets</a>
+        <a href="#ipos">IPO Hub</a>
+    </nav>
+
+    <div class="nav-actions">
+        <div class="market-status-pill" id="navMarketStatus">
+            <span class="pulse-dot"></span>
+            <span id="marketStatusText">NSE/BSE LIVE</span>
+        </div>
+        <button id="refreshDataBtn" class="btn-icon" title="Refresh Live Market Data" aria-label="Refresh Market Data">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+            </svg>
+        </button>
+    </div>
+</header>
+
+<main>
+    <!-- ─── HERO SECTION ─── -->
+    <section class="hero" id="dashboard">
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span class="badge-dot"></span>
+                <span>QUANTITATIVE INTELLIGENCE & 570+ INDIAN EQUITIES</span>
+            </div>
+            <h1>
+                Predict with ML.<br>
+                <span class="gradient-text">Understand with AI.</span>
+            </h1>
+            <p class="hero-description">
+                Experience next-generation Indian market intelligence. Forecast next-day closing prices with scikit-learn Linear Regression, screen 500+ NSE/BSE equities, and receive natural-language explanations from our AI Stock Analyst.
+            </p>
+
+            <div class="search-container">
+                <form id="stockSearchForm" class="search-form">
+                    <div class="search-input-wrapper">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                        <input id="heroSearchInput" type="search" autocomplete="off"
+                               placeholder="Search across 500+ stocks (e.g. RELIANCE, TCS, ZOMATO, HAL, TRENT)..." aria-label="Search Indian stocks">
+                        <span class="search-shortcut">/</span>
+                    </div>
+                    <button type="submit" class="btn-primary">Search</button>
+                </form>
+                <div id="autocompleteDropdown" class="autocomplete-dropdown hidden"></div>
+            </div>
+
+            <div class="quick-tags">
+                <span class="quick-tag-label">Trending:</span>
+                <button type="button" class="quick-tag" data-sym="RELIANCE">RELIANCE</button>
+                <button type="button" class="quick-tag" data-sym="TCS">TCS</button>
+                <button type="button" class="quick-tag" data-sym="HDFCBANK">HDFCBANK</button>
+                <button type="button" class="quick-tag" data-sym="INFY">INFY</button>
+                <button type="button" class="quick-tag" data-sym="ZOMATO">ZOMATO</button>
+                <button type="button" class="quick-tag" data-sym="HAL">HAL</button>
+                <button type="button" class="quick-tag" data-sym="TRENT">TRENT</button>
+            </div>
+        </div>
+
+        <!-- ─── HERO SPOTLIGHT CARD ─── -->
+        <div class="hero-card glassmorphism">
+            <div class="card-glow"></div>
+            <div class="card-top">
+                <div class="stock-avatar-large" id="spotlightAvatar">R</div>
+                <div>
+                    <div class="spotlight-title-row">
+                        <strong id="spotlightName">Reliance Industries Ltd</strong>
+                        <span class="tag-cap" id="spotlightCap">Large Cap</span>
+                    </div>
+                    <p class="spotlight-sym-row">
+                        <span id="spotlightSym">RELIANCE</span> · <span id="spotlightSector">Energy</span> · NSE
+                    </p>
+                </div>
+            </div>
+
+            <div class="spotlight-price-row">
+                <div class="hero-price" id="heroPrice">₹1,187.00</div>
+                <div id="heroChange" class="change positive">▲ +0.42%</div>
+            </div>
+
+            <div class="range-stat-bar">
+                <div class="range-labels">
+                    <span>Day Low: <strong id="spotlightDayLow">₹1,181.70</strong></span>
+                    <span>Day High: <strong id="spotlightDayHigh">₹1,196.50</strong></span>
+                </div>
+                <div class="range-track">
+                    <div class="range-fill" id="spotlightDayFill" style="width: 55%; left: 10%;"></div>
+                </div>
+            </div>
+
+            <div class="card-meta-grid">
+                <div class="meta-item">
+                    <span class="meta-label">52W Range</span>
+                    <strong class="meta-val" id="spotlight52w">₹1,181.70 - ₹1,611.80</strong>
+                </div>
+                <div class="meta-item">
+                    <span class="meta-label">Volume</span>
+                    <strong class="meta-val" id="spotlightVol">16.37M</strong>
+                </div>
+            </div>
+
+            <div class="hero-card-footer">
+                <button id="spotlightPredictBtn" class="btn-spotlight-action">
+                    ⚡ Predict in AI Lab
+                </button>
+                <div id="heroQuoteStatus" class="quote-status">Live exchange sync</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ─── MARKET SNAPSHOT SECTION ─── -->
+    <section class="section" id="market">
+        <div class="section-heading">
+            <div>
+                <span class="eyebrow">KEY BENCHMARKS</span>
+                <h2>Market Indices Overview</h2>
+            </div>
+            <span class="live-indicator-pill">● Real-Time Exchange Data</span>
+        </div>
+        <div id="indicesGrid" class="indices-grid"></div>
+    </section>
+
+    <!-- ─── 500+ STOCKS SCREENER SECTION ─── -->
+    <section class="section" id="screener">
+        <div class="section-heading">
+            <div>
+                <span class="eyebrow">COMPREHENSIVE DIRECTORY</span>
+                <h2>500+ NSE & BSE Equities Screener</h2>
+                <p class="muted">Browse, search, and analyze over 570+ listed Indian equities across market caps and sectors.</p>
+            </div>
+            <div class="screener-count-badge" id="screenerCountBadge">
+                Showing <strong id="screenerCurrentCount">0</strong> of <strong id="screenerTotalCount">572</strong> stocks
+            </div>
+        </div>
+
+        <!-- Screener Controls -->
+        <div class="screener-controls glassmorphism">
+            <div class="screener-search-wrap">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <input id="screenerSearchInput" type="text" placeholder="Filter by symbol or name (e.g. TATA, BANK, PHARMA)...">
+            </div>
+
+            <div class="screener-filter-group">
+                <label for="screenerCapSelect" class="sr-only">Market Cap</label>
+                <select id="screenerCapSelect" class="filter-select">
+                    <option value="All">All Market Caps</option>
+                    <option value="Large Cap">Large Cap</option>
+                    <option value="Mid Cap">Mid Cap</option>
+                    <option value="Small Cap">Small Cap</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Sector Filter Pills -->
+        <div class="sector-pills" id="sectorPills">
+            <button class="sector-pill active" data-sector="All">All Sectors</button>
+            <button class="sector-pill" data-sector="Banking">Banking</button>
+            <button class="sector-pill" data-sector="IT Services">IT Services</button>
+            <button class="sector-pill" data-sector="Automobile">Automobile</button>
+            <button class="sector-pill" data-sector="Energy">Energy</button>
+            <button class="sector-pill" data-sector="Healthcare">Healthcare</button>
+            <button class="sector-pill" data-sector="FMCG">FMCG</button>
+            <button class="sector-pill" data-sector="Capital Goods">Capital Goods</button>
+            <button class="sector-pill" data-sector="Metals & Mining">Metals & Mining</button>
+            <button class="sector-pill" data-sector="Financial Services">Financial Services</button>
+            <button class="sector-pill" data-sector="Realty">Realty</button>
+            <button class="sector-pill" data-sector="Defense & Aerospace">Defense & Aero</button>
+        </div>
+
+        <!-- Screener Stats Row -->
+        <div class="screener-stats-row" id="screenerStatsRow">
+            <div class="screener-stat">
+                <span class="screener-stat-val" id="screenerTotalCount">572</span>
+                <span class="screener-stat-lbl">Total Stocks</span>
+            </div>
+            <div class="screener-stat">
+                <span class="screener-stat-val">NSE + BSE</span>
+                <span class="screener-stat-lbl">Exchanges</span>
+            </div>
+            <div class="screener-stat">
+                <span class="screener-stat-val">20+</span>
+                <span class="screener-stat-lbl">Sectors</span>
+            </div>
+            <div class="screener-stat">
+                <span class="screener-stat-val">⚡ Live</span>
+                <span class="screener-stat-lbl">Data Source</span>
+            </div>
+        </div>
+
+        <!-- 500+ Stock Grid -->
+        <div id="stocksGrid" class="stocks-grid">
+            <!-- Dynamically populated -->
+        </div>
+
+        <div class="load-more-wrap">
+            <button id="loadMoreStocksBtn" class="btn-secondary">
+                Load More Stocks (Showing <span id="btnLoadedCount">60</span>)
+            </button>
+        </div>
+    </section>
+
+    <!-- ─── STOCKSENSE AI LAB SECTION (ML + LLM) ─── -->
+    <section class="section ai-lab-section" id="ai-analysis">
+        <div class="section-heading text-center">
+            <span class="eyebrow">QUANTITATIVE AI WORKSPACE</span>
+            <h2>StockSense AI Lab</h2>
+            <p class="muted">Machine Learning next-day closing price estimation paired with natural-language LLM stock analysis.</p>
+        </div>
+
+        <div class="ai-lab-workspace glassmorphism">
+            <!-- Left Panel: ML Predictor -->
+            <div class="ai-col-ml">
+                <div class="ai-panel-header">
+                    <div class="header-icon-box">🤖</div>
+                    <div>
+                        <h3>ML Price Forecast</h3>
+                        <p class="muted">scikit-learn Linear Regression · 5-Day Autoregression</p>
+                    </div>
+                </div>
+
+                <div class="ai-form-group">
+                    <label for="aiSymbolSelect">Select from 500+ Stocks or Type Symbol</label>
+                    <div class="select-search-wrap">
+                        <select id="aiSymbolSelect" class="ai-select">
+                            <!-- Populated with all 500+ stocks -->
+                        </select>
+                    </div>
+                </div>
+
+                <button id="predictBtn" type="button" class="btn-gradient-predict">
+                    <span class="btn-text">Predict Next-Day Price</span>
+                    <span class="btn-loader hidden" id="predictLoader"></span>
+                </button>
+
+                <!-- ML Output Card -->
+                <div id="predictionResultBox" class="ml-result-card">
+                    <div class="placeholder-empty-state">
+                        <span class="icon-empty">📊</span>
+                        <p>Select any stock above and click <strong>Predict Next-Day Price</strong> to train and evaluate the Linear Regression model.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Panel: LLM AI Analyst -->
+            <div class="ai-col-analyst">
+                <div class="ai-panel-header">
+                    <div class="header-icon-box purple">🧠</div>
+                    <div>
+                        <h3>AI Stock Analyst</h3>
+                        <p class="muted">Grounded Natural Language Explanations</p>
+                    </div>
+                </div>
+
+                <div class="quick-prompts-label">Quick Prompts:</div>
+                <div class="quick-prompts" id="quickPrompts">
+                    <button type="button" class="prompt-chip" data-prompt="Explain what the MAE and RMSE metrics indicate for this stock forecast.">
+                        💡 Explain MAE & RMSE
+                    </button>
+                    <button type="button" class="prompt-chip" data-prompt="Is this forecast considered bullish or consolidation relative to current volatility?">
+                        📈 Bullish or Bearish?
+                    </button>
+                    <button type="button" class="prompt-chip" data-prompt="What are the fundamental limitations of using a 5-day Linear Regression model?">
+                        ⚠️ Model Limitations
+                    </button>
+                    <button type="button" class="prompt-chip" data-prompt="Explain what trading risks a retail investor should consider for this stock.">
+                        🛡️ Risk Management
+                    </button>
+                </div>
+
+                <div class="ai-form-group">
+                    <label for="analystQuestion">Ask the Analyst a Specific Question</label>
+                    <textarea id="analystQuestion" rows="3" placeholder="e.g. Explain this forecast and what the error margins imply for this stock..."></textarea>
+                </div>
+
+                <button id="analystBtn" type="button" class="btn-purple-analyst">
+                    <span class="btn-text">Ask AI Analyst</span>
+                    <span class="btn-loader hidden" id="analystLoader"></span>
+                </button>
+
+                <!-- Analyst Output Window -->
+                <div id="analystResultBox" class="analyst-terminal-box">
+                    <div class="placeholder-empty-state">
+                        <span class="icon-empty">💬</span>
+                        <p>After generating an ML forecast, ask the AI Analyst to explain the metrics, uncertainty, and statistical behavior.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ─── ILLUSTRATIVE TARGETS SECTION ─── -->
+    <section class="section" id="predictions">
+        <div class="section-heading">
+            <div>
+                <span class="eyebrow">STATISTICAL TARGETS</span>
+                <h2>Multi-Horizon Price Targets</h2>
+                <p class="muted">Algorithmic projections across short and long term holding horizons.</p>
+            </div>
+        </div>
+
+        <div class="tabs" id="horizonTabs">
+            <button class="tab active" data-horizon="1d">1 Day</button>
+            <button class="tab" data-horizon="5d">5 Days</button>
+            <button class="tab" data-horizon="1m">1 Month</button>
+            <button class="tab" data-horizon="1y">1 Year</button>
+        </div>
+
+        <div id="predictionsGrid" class="predictions-grid"></div>
+    </section>
+
+    <!-- ─── IPO HUB SECTION ─── -->
+    <section class="section" id="ipos">
+        <div class="section-heading">
+            <div>
+                <span class="eyebrow">PRIMARY MARKET</span>
+                <h2>Indian IPO Hub</h2>
+                <p class="muted">Track verified recent mega issues and upcoming public offerings with subscription metrics and GMP.</p>
+            </div>
+            <span class="live-indicator-pill">● Verified Records</span>
+        </div>
+        <div id="ipoGrid" class="ipo-grid"></div>
+    </section>
+
+    <!-- ─── DISCLAIMER SECTION ─── -->
+    <section class="disclaimer glassmorphism">
+        <div class="disclaimer-header">
+            <span class="disclaimer-icon">⚠️</span>
+            <strong>Important Regulatory & Educational Notice:</strong>
+        </div>
+        <p>
+            StockSense AI is strictly an educational demonstration combining statistical modeling (Linear Regression) and language model synthesis. Price predictions, targets, error metrics (MAE/RMSE), and AI explanations do not constitute SEBI-registered investment, financial, or trading advice. Indian equity markets carry financial risk. Always consult a certified financial advisor before committing capital.
+        </p>
+    </section>
+</main>
+
+<!-- ─── FOOTER ─── -->
+<footer class="footer">
+    <div class="footer-top">
+        <div>
+            <a href="#" class="brand">📈 StockSense <span>AI</span></a>
+            <p class="footer-tagline">Advanced quantitative Indian equity forecasting & market intelligence.</p>
+        </div>
+        <div class="footer-stats">
+            <div class="stat-pill"><span class="pill-dot"></span> 572+ NSE/BSE Stocks Active</div>
+            <div class="stat-pill">Python ML FastAPI (Port 8000)</div>
+            <div class="stat-pill">Node.js Server (Port 3000)</div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>© 2026 StockSense AI. Built for retail Indian market investors.</p>
+        <p>Educational Demonstration · Exchange quotes may be delayed.</p>
+    </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
